@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/1474204392",
+            "properties": {
+                "timestamp": "2026-02-04T16:24:49Z",
+                "version": "1",
+                "changeset": "178102400",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "house",
+                "building:levels": "2",
+                "building:material": "brick",
+                "height": "6.5",
+                "house": "detached",
+                "name": "Дачный дом",
+                "roof:shape": "gabled",
+                "id": "way/1474204392"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3985038,
+                            53.7314329
+                        ],
+                        [
+                            49.3984961,
+                            53.7313838
+                        ],
+                        [
+                            49.3985797,
+                            53.7313792
+                        ],
+                        [
+                            49.3985875,
+                            53.7314283
+                        ],
+                        [
+                            49.3985038,
+                            53.7314329
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
