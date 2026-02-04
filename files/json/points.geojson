@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/13524647371",
+            "properties": {
+                "timestamp": "2026-02-04T17:30:30Z",
+                "version": "1",
+                "changeset": "178104892",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "addr:city": "Самара",
+                "addr:housenumber": "95 к2",
+                "addr:postcode": "443080",
+                "addr:street": "улица Санфировой",
+                "name": "Роспак",
+                "office": "company",
+                "opening_hours": "Mo-Fr 09:00-18:00",
+                "phone": "8 (800) 551-80-10",
+                "website": "https://rspak.ru/",
+                "id": "node/13524647371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.1950882,
+                    53.2202994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13524647372",
+            "properties": {
+                "timestamp": "2026-02-04T17:30:30Z",
+                "version": "1",
+                "changeset": "178104892",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "addr:city": "Самара",
+                "addr:housenumber": "189А",
+                "addr:postcode": "443087",
+                "addr:street": "Ново-Вокзальная улица",
+                "image": "https://avatars.mds.yandex.net/get-altay/13229990/2a0000018fab1b9b65c695c44e156d2435a5/XXXL",
+                "name": "Ателье",
+                "office": "company",
+                "official_name": "Sima",
+                "opening_hours": "Mo-Fr 10:00-19:00",
+                "phone": "+7 (919) 807-00-43",
+                "id": "node/13524647372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.2231376,
+                    53.2347092
+                ]
+            }
+        }
+    ]
+}
