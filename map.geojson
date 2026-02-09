@@ -433,7 +433,7 @@
                 "addr:housenumber": "87",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "2",
                 "id": "way/1475588469"
             },
             "geometry": {
