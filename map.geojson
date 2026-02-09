@@ -145,18 +145,59 @@
         },
         {
             "type": "Feature",
+            "id": "way/1353873655",
+            "properties": {
+                "timestamp": "2025-01-24T05:40:08Z",
+                "version": "1",
+                "changeset": "161698229",
+                "user": "maxlax",
+                "uid": "15972813",
+                "landuse": "allotments",
+                "name": "СНТ Металлург",
+                "id": "way/1353873655"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2758327,
+                            53.5930379
+                        ],
+                        [
+                            49.2783587,
+                            53.6017529
+                        ],
+                        [
+                            49.2649135,
+                            53.6030443
+                        ],
+                        [
+                            49.262408,
+                            53.5941346
+                        ],
+                        [
+                            49.2758327,
+                            53.5930379
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "way/1475588464",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "93",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "1",
                 "id": "way/1475588464"
             },
             "geometry": {
@@ -191,16 +232,16 @@
             "type": "Feature",
             "id": "way/1475588465",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "92",
                 "addr:street": "1-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "1",
                 "id": "way/1475588465"
             },
             "geometry": {
@@ -235,16 +276,16 @@
             "type": "Feature",
             "id": "way/1475588466",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "89",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "2",
                 "id": "way/1475588466"
             },
             "geometry": {
@@ -279,16 +320,16 @@
             "type": "Feature",
             "id": "way/1475588467",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "90",
                 "addr:street": "1-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "1",
                 "id": "way/1475588467"
             },
             "geometry": {
@@ -323,16 +364,16 @@
             "type": "Feature",
             "id": "way/1475588468",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "91",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "2",
                 "id": "way/1475588468"
             },
             "geometry": {
@@ -555,16 +596,16 @@
             "type": "Feature",
             "id": "way/1475588473",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "85",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "1",
                 "id": "way/1475588473"
             },
             "geometry": {
@@ -572,24 +613,24 @@
                 "coordinates": [
                     [
                         [
-                            49.2789539,
-                            53.6006776
+                            49.2792049,
+                            53.6007319
                         ],
                         [
-                            49.2789443,
-                            53.6006166
+                            49.279195,
+                            53.6006798
                         ],
                         [
-                            49.2790388,
-                            53.6006114
+                            49.2792762,
+                            53.6006744
                         ],
                         [
-                            49.2790483,
-                            53.6006725
+                            49.279286,
+                            53.6007265
                         ],
                         [
-                            49.2789539,
-                            53.6006776
+                            49.2792049,
+                            53.6007319
                         ]
                     ]
                 ]
@@ -599,16 +640,16 @@
             "type": "Feature",
             "id": "way/1475588474",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "83",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "2",
+                "building:levels": "1",
                 "id": "way/1475588474"
             },
             "geometry": {
@@ -775,16 +816,16 @@
             "type": "Feature",
             "id": "way/1475588478",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "80",
                 "addr:street": "1-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "2",
                 "id": "way/1475588478"
             },
             "geometry": {
@@ -819,16 +860,16 @@
             "type": "Feature",
             "id": "way/1475588479",
             "properties": {
-                "timestamp": "2026-02-09T14:07:55Z",
-                "version": "1",
-                "changeset": "178314037",
+                "timestamp": "2026-02-09T14:33:54Z",
+                "version": "2",
+                "changeset": "178315130",
                 "user": "dmgorsh",
                 "uid": "23805865",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "79",
                 "addr:street": "2-я улица",
                 "building": "house",
-                "building:levels": "1-2",
+                "building:levels": "1",
                 "id": "way/1475588479"
             },
             "geometry": {
@@ -1174,64 +1215,6 @@
                     [
                         49.2779646,
                         53.5929926
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/308549386",
-            "properties": {
-                "timestamp": "2025-11-12T10:08:21Z",
-                "version": "2",
-                "changeset": "174550903",
-                "user": "ПДМ",
-                "uid": "23237611",
-                "highway": "service",
-                "name": "4-я улица",
-                "id": "way/308549386"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        49.2787671,
-                        53.59292
-                    ],
-                    [
-                        49.2812638,
-                        53.6013884
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/308549387",
-            "properties": {
-                "timestamp": "2025-11-12T10:08:21Z",
-                "version": "2",
-                "changeset": "174550903",
-                "user": "ПДМ",
-                "uid": "23237611",
-                "highway": "service",
-                "name": "5-я улица",
-                "id": "way/308549387"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        49.282065,
-                        53.6013124
-                    ],
-                    [
-                        49.2808354,
-                        53.5970933
-                    ],
-                    [
-                        49.2795974,
-                        53.5928449
                     ]
                 ]
             }
