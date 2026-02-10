@@ -3,6 +3,101 @@
     "features": [
         {
             "type": "Feature",
+            "id": "way/1474204392",
+            "properties": {
+                "timestamp": "2026-02-10T08:41:19Z",
+                "version": "2",
+                "changeset": "178346986",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "addr:city": "массив № 1, СНТ Лопатино, сельское поселение Верхнее Санчелеево, Ставропольский район, Самарская область",
+                "addr:housenumber": "390",
+                "addr:street": "6 улица",
+                "building": "house",
+                "building:levels": "2",
+                "building:material": "brick",
+                "height": "6.5",
+                "house": "detached",
+                "name": "Дачный дом",
+                "roof:shape": "gabled",
+                "id": "way/1474204392"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3985038,
+                            53.7314329
+                        ],
+                        [
+                            49.3984961,
+                            53.7313838
+                        ],
+                        [
+                            49.3985797,
+                            53.7313792
+                        ],
+                        [
+                            49.3985875,
+                            53.7314283
+                        ],
+                        [
+                            49.3985038,
+                            53.7314329
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210131",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "carport",
+                "building:levels": "1",
+                "capacity": "1",
+                "height": "3",
+                "name": "Гараж",
+                "roof:colour": "#939891",
+                "roof:shape": "flat",
+                "id": "way/1474210131"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3985038,
+                            53.7314329
+                        ],
+                        [
+                            49.3984589,
+                            53.7314359
+                        ],
+                        [
+                            49.3984498,
+                            53.7313876
+                        ],
+                        [
+                            49.3984961,
+                            53.7313838
+                        ],
+                        [
+                            49.3985038,
+                            53.7314329
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "way/1474210132",
             "properties": {
                 "timestamp": "2026-02-04T16:48:16Z",
@@ -267,32 +362,38 @@
         },
         {
             "type": "Feature",
-            "id": "way/1474210131",
+            "id": "way/589102125",
             "properties": {
-                "timestamp": "2026-02-04T16:48:16Z",
-                "version": "1",
-                "changeset": "178103280",
-                "user": "Matvey1221",
-                "uid": "23788233",
-                "building": "carport",
-                "building:levels": "1",
-                "capacity": "1",
-                "height": "3",
-                "name": "Гараж",
-                "roof:colour": "#939891",
-                "roof:shape": "flat",
-                "id": "way/1474210131"
+                "timestamp": "2021-08-25T11:19:59Z",
+                "version": "2",
+                "changeset": "110225276",
+                "user": "Mikhail Lazarenko",
+                "uid": "13933580",
+                "highway": "service",
+                "id": "way/589102125"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        49.3984589,
-                        53.7314359
+                        49.3896198,
+                        53.7322019
                     ],
                     [
-                        49.3984498,
-                        53.7313876
+                        49.3923157,
+                        53.7319745
+                    ],
+                    [
+                        49.3957722,
+                        53.7317075
+                    ],
+                    [
+                        49.3987101,
+                        53.7314731
+                    ],
+                    [
+                        49.4004548,
+                        53.7313407
                     ]
                 ]
             }

@@ -1,0 +1,845 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/417187978",
+            "properties": {
+                "timestamp": "2023-06-27T12:31:03Z",
+                "version": "2",
+                "changeset": "137833925",
+                "user": "Mtopo822",
+                "uid": "19379604",
+                "landuse": "residential",
+                "residential": "apartments",
+                "id": "way/417187978"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.1930421,
+                            53.2210673
+                        ],
+                        [
+                            50.193634,
+                            53.2206335
+                        ],
+                        [
+                            50.1943719,
+                            53.2209853
+                        ],
+                        [
+                            50.1946556,
+                            53.2207656
+                        ],
+                        [
+                            50.1958195,
+                            53.2212946
+                        ],
+                        [
+                            50.1962583,
+                            53.2209471
+                        ],
+                        [
+                            50.197239,
+                            53.2214085
+                        ],
+                        [
+                            50.1960223,
+                            53.2224036
+                        ],
+                        [
+                            50.1952343,
+                            53.2220471
+                        ],
+                        [
+                            50.1945444,
+                            53.2226096
+                        ],
+                        [
+                            50.1929621,
+                            53.221914
+                        ],
+                        [
+                            50.1936647,
+                            53.2213411
+                        ],
+                        [
+                            50.1930421,
+                            53.2210673
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1462240772",
+            "properties": {
+                "timestamp": "2025-12-28T05:25:42Z",
+                "version": "1",
+                "changeset": "176513556",
+                "user": "Innvisible",
+                "uid": "21613844",
+                "addr:housenumber": "95 к2",
+                "addr:street": "улица Санфировой",
+                "building": "commercial",
+                "building:levels": "8",
+                "id": "way/1462240772"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.194649,
+                            53.2205825
+                        ],
+                        [
+                            50.1950793,
+                            53.2202499
+                        ],
+                        [
+                            50.1952985,
+                            53.2203516
+                        ],
+                        [
+                            50.1948683,
+                            53.2206842
+                        ],
+                        [
+                            50.194649,
+                            53.2205825
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1462240775",
+            "properties": {
+                "timestamp": "2025-12-28T05:25:42Z",
+                "version": "1",
+                "changeset": "176513556",
+                "user": "Innvisible",
+                "uid": "21613844",
+                "addr:housenumber": "5 лит В",
+                "addr:street": "Центральная улица",
+                "building": "commercial",
+                "building:levels": "2",
+                "id": "way/1462240775"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.1953581,
+                            53.2209507
+                        ],
+                        [
+                            50.1949911,
+                            53.2207814
+                        ],
+                        [
+                            50.1952308,
+                            53.2205951
+                        ],
+                        [
+                            50.1953901,
+                            53.2206686
+                        ],
+                        [
+                            50.1953729,
+                            53.2206841
+                        ],
+                        [
+                            50.1952555,
+                            53.2207732
+                        ],
+                        [
+                            50.1954633,
+                            53.220869
+                        ],
+                        [
+                            50.1953581,
+                            53.2209507
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1462240776",
+            "properties": {
+                "timestamp": "2025-12-28T05:25:42Z",
+                "version": "1",
+                "changeset": "176513556",
+                "user": "Innvisible",
+                "uid": "21613844",
+                "addr:housenumber": "5 лит В",
+                "addr:street": "Центральная улица",
+                "building": "commercial",
+                "building:levels": "2",
+                "id": "way/1462240776"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.1953729,
+                            53.2206841
+                        ],
+                        [
+                            50.1954729,
+                            53.220608
+                        ],
+                        [
+                            50.19581,
+                            53.220767
+                        ],
+                        [
+                            50.19571,
+                            53.220843
+                        ],
+                        [
+                            50.1953729,
+                            53.2206841
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1462240773",
+            "properties": {
+                "timestamp": "2025-12-28T05:25:42Z",
+                "version": "1",
+                "changeset": "176513556",
+                "user": "Innvisible",
+                "uid": "21613844",
+                "highway": "service",
+                "id": "way/1462240773"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        50.1950296,
+                        53.2201264
+                    ],
+                    [
+                        50.1944594,
+                        53.2205719
+                    ],
+                    [
+                        50.1946973,
+                        53.2206801
+                    ],
+                    [
+                        50.1948891,
+                        53.2207675
+                    ],
+                    [
+                        50.1950435,
+                        53.2206451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1462240774",
+            "properties": {
+                "timestamp": "2025-12-28T05:25:42Z",
+                "version": "1",
+                "changeset": "176513556",
+                "user": "Innvisible",
+                "uid": "21613844",
+                "highway": "service",
+                "id": "way/1462240774"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        50.1946973,
+                        53.2206801
+                    ],
+                    [
+                        50.1943849,
+                        53.2209345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13524647371",
+            "properties": {
+                "timestamp": "2026-02-04T17:30:30Z",
+                "version": "1",
+                "changeset": "178104892",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "addr:city": "Самара",
+                "addr:housenumber": "95 к2",
+                "addr:postcode": "443080",
+                "addr:street": "улица Санфировой",
+                "name": "Роспак",
+                "office": "company",
+                "opening_hours": "Mo-Fr 09:00-18:00",
+                "phone": "8 (800) 551-80-10",
+                "website": "https://rspak.ru/",
+                "id": "node/13524647371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.1950882,
+                    53.2202994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/27503370",
+            "properties": {
+                "timestamp": "2022-04-09T15:51:47Z",
+                "version": "10",
+                "changeset": "119509449",
+                "user": "DeKaN",
+                "uid": "471972",
+                "addr:housenumber": "189А",
+                "addr:postcode": "443087",
+                "addr:street": "Ново-Вокзальная улица",
+                "building": "commercial",
+                "building:levels": "5",
+                "id": "way/27503370"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.2228353,
+                            53.2346093
+                        ],
+                        [
+                            50.2230107,
+                            53.2344738
+                        ],
+                        [
+                            50.2235445,
+                            53.2347211
+                        ],
+                        [
+                            50.2233692,
+                            53.2348567
+                        ],
+                        [
+                            50.2229629,
+                            53.2346684
+                        ],
+                        [
+                            50.2228353,
+                            53.2346093
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1890131352",
+            "properties": {
+                "timestamp": "2023-09-03T10:58:01Z",
+                "version": "4",
+                "changeset": "140752724",
+                "user": "zuzuFan",
+                "uid": "3419533",
+                "brand": "Пятёрочка",
+                "brand:wikidata": "Q1768969",
+                "brand:wikipedia": "ru:Пятёрочка",
+                "check_date": "2023-09-03",
+                "contact:phone": "+7 800 5555505",
+                "contact:website": "https://5ka.ru",
+                "name": "Пятёрочка",
+                "name:en": "Pyaterochka",
+                "name:ru": "Пятёрочка",
+                "opening_hours": "08:00-23:00",
+                "operator": "ООО \"Агроторг\"",
+                "ref": "7292",
+                "shop": "supermarket",
+                "id": "node/1890131352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.2229629,
+                    53.2346684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/9675486227",
+            "properties": {
+                "timestamp": "2022-04-18T19:50:40Z",
+                "version": "1",
+                "changeset": "119876061",
+                "user": "zuzuFan",
+                "uid": "3419533",
+                "addr:door": "2",
+                "email": "info@ukmayak63.ru",
+                "level": "1",
+                "name": "Маяк",
+                "office": "property_management",
+                "opening_hours": "Mo 09:00-13:00; Tu 14:00-16:00; Th 09:00-13:00, 14:00-1600",
+                "operator": "ООО \"Управляющая компания Маяк\"",
+                "phone": "+7 846 2060307",
+                "website": "http://ukmayak63.ru",
+                "id": "node/9675486227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.2230956,
+                    53.2346779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13524647372",
+            "properties": {
+                "timestamp": "2026-02-04T17:30:30Z",
+                "version": "1",
+                "changeset": "178104892",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "addr:city": "Самара",
+                "addr:housenumber": "189А",
+                "addr:postcode": "443087",
+                "addr:street": "Ново-Вокзальная улица",
+                "image": "https://avatars.mds.yandex.net/get-altay/13229990/2a0000018fab1b9b65c695c44e156d2435a5/XXXL",
+                "name": "Ателье",
+                "office": "company",
+                "official_name": "Sima",
+                "opening_hours": "Mo-Fr 10:00-19:00",
+                "phone": "+7 (919) 807-00-43",
+                "id": "node/13524647372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.2231376,
+                    53.2347092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474204392",
+            "properties": {
+                "timestamp": "2026-02-10T08:41:19Z",
+                "version": "2",
+                "changeset": "178346986",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "addr:city": "массив № 1, СНТ Лопатино, сельское поселение Верхнее Санчелеево, Ставропольский район, Самарская область",
+                "addr:housenumber": "390",
+                "addr:street": "6 улица",
+                "building": "house",
+                "building:levels": "2",
+                "building:material": "brick",
+                "height": "6.5",
+                "house": "detached",
+                "name": "Дачный дом",
+                "roof:shape": "gabled",
+                "id": "way/1474204392"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3985038,
+                            53.7314329
+                        ],
+                        [
+                            49.3984961,
+                            53.7313838
+                        ],
+                        [
+                            49.3985797,
+                            53.7313792
+                        ],
+                        [
+                            49.3985875,
+                            53.7314283
+                        ],
+                        [
+                            49.3985038,
+                            53.7314329
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210131",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "carport",
+                "building:levels": "1",
+                "capacity": "1",
+                "height": "3",
+                "name": "Гараж",
+                "roof:colour": "#939891",
+                "roof:shape": "flat",
+                "id": "way/1474210131"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3985038,
+                            53.7314329
+                        ],
+                        [
+                            49.3984589,
+                            53.7314359
+                        ],
+                        [
+                            49.3984498,
+                            53.7313876
+                        ],
+                        [
+                            49.3984961,
+                            53.7313838
+                        ],
+                        [
+                            49.3985038,
+                            53.7314329
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210132",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "access": "private",
+                "building": "yes",
+                "building:levels": "1",
+                "building:material": "brick",
+                "name": "Баня",
+                "roof:shape": "gabled",
+                "id": "way/1474210132"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3984412,
+                            53.7313762
+                        ],
+                        [
+                            49.3984325,
+                            53.7313139
+                        ],
+                        [
+                            49.3985093,
+                            53.7313122
+                        ],
+                        [
+                            49.3985142,
+                            53.7313726
+                        ],
+                        [
+                            49.3984412,
+                            53.7313762
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210133",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "name": "Дачный участок",
+                "place": "plot",
+                "id": "way/1474210133"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.398832,
+                            53.73144
+                        ],
+                        [
+                            49.3984588,
+                            53.7314705
+                        ],
+                        [
+                            49.3983869,
+                            53.7311789
+                        ],
+                        [
+                            49.3986214,
+                            53.7311632
+                        ],
+                        [
+                            49.398765,
+                            53.7311534
+                        ],
+                        [
+                            49.398832,
+                            53.73144
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210134",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "yes",
+                "building:levels": "1",
+                "height": "2",
+                "name": "Летний Курятник",
+                "roof:shape": "flat",
+                "id": "way/1474210134"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3986218,
+                            53.7311645
+                        ],
+                        [
+                            49.3986268,
+                            53.7311896
+                        ],
+                        [
+                            49.3985324,
+                            53.7311962
+                        ],
+                        [
+                            49.3985274,
+                            53.7311712
+                        ],
+                        [
+                            49.3986218,
+                            53.7311645
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210135",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "shed",
+                "building:levels": "1",
+                "height": "2",
+                "lockable": "yes",
+                "roof:shape": "flat",
+                "id": "way/1474210135"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3986413,
+                            53.731185
+                        ],
+                        [
+                            49.3986369,
+                            53.7311639
+                        ],
+                        [
+                            49.3987528,
+                            53.7311556
+                        ],
+                        [
+                            49.3987571,
+                            53.7311767
+                        ],
+                        [
+                            49.3986413,
+                            53.731185
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210136",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "greenhouse",
+                "building:levels": "1",
+                "height": "2",
+                "roof:shape": "dome",
+                "id": "way/1474210136"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3986683,
+                            53.7311985
+                        ],
+                        [
+                            49.3987651,
+                            53.7311907
+                        ],
+                        [
+                            49.3987702,
+                            53.7312129
+                        ],
+                        [
+                            49.3986735,
+                            53.7312207
+                        ],
+                        [
+                            49.3986683,
+                            53.7311985
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1474210137",
+            "properties": {
+                "timestamp": "2026-02-04T16:48:16Z",
+                "version": "1",
+                "changeset": "178103280",
+                "user": "Matvey1221",
+                "uid": "23788233",
+                "building": "greenhouse",
+                "building:levels": "1",
+                "height": "2",
+                "roof:shape": "dome",
+                "id": "way/1474210137"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.3984413,
+                            53.7312548
+                        ],
+                        [
+                            49.398431,
+                            53.731203
+                        ],
+                        [
+                            49.3984754,
+                            53.7311999
+                        ],
+                        [
+                            49.3984858,
+                            53.7312517
+                        ],
+                        [
+                            49.3984413,
+                            53.7312548
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/589102125",
+            "properties": {
+                "timestamp": "2021-08-25T11:19:59Z",
+                "version": "2",
+                "changeset": "110225276",
+                "user": "Mikhail Lazarenko",
+                "uid": "13933580",
+                "highway": "service",
+                "id": "way/589102125"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.3896198,
+                        53.7322019
+                    ],
+                    [
+                        49.3923157,
+                        53.7319745
+                    ],
+                    [
+                        49.3957722,
+                        53.7317075
+                    ],
+                    [
+                        49.3987101,
+                        53.7314731
+                    ],
+                    [
+                        49.4004548,
+                        53.7313407
+                    ]
+                ]
+            }
+        }
+    ]
+}
