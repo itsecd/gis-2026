@@ -1,21 +1,690 @@
 {
-"type": "FeatureCollection",
-"name": "map",
-"features": [
-{ "type": "Feature", "id": "way/1475588464", "properties": { "timestamp": "2026-02-09T14:33:54", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "93", "addr:street": "2-я улица", "building": "house", "building:levels": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.279367, 53.6014369 ], [ 49.2793515, 53.6013821 ], [ 49.2794702, 53.6013702 ], [ 49.2794858, 53.6014251 ], [ 49.279367, 53.6014369 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588465", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "92", "addr:street": "1-я улица", "building": "house", "building:levels": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2787424, 53.601351 ], [ 49.2787206, 53.6012727 ], [ 49.2788097, 53.601264 ], [ 49.2788315, 53.6013423 ], [ 49.2787424, 53.601351 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588466", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "89", "addr:street": "2-я улица", "building": "house", "building:levels": "2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2792763, 53.6010945 ], [ 49.2792538, 53.6010187 ], [ 49.2793817, 53.6010053 ], [ 49.2794042, 53.6010811 ], [ 49.2792763, 53.6010945 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588467", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "90", "addr:street": "1-я улица", "building": "house", "building:levels": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2786624, 53.6011041 ], [ 49.2786512, 53.601059 ], [ 49.278758, 53.6010496 ], [ 49.2787692, 53.6010947 ], [ 49.2786624, 53.6011041 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588468", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "91", "addr:street": "2-я улица", "building": "house", "building:levels": "2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2793506, 53.6012418 ], [ 49.279343, 53.601214 ], [ 49.2793018, 53.6012179 ], [ 49.2792964, 53.601198 ], [ 49.279334, 53.6011944 ], [ 49.2793311, 53.6011837 ], [ 49.2794061, 53.6011766 ], [ 49.279422, 53.601235 ], [ 49.2793506, 53.6012418 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588469", "properties": { "timestamp": "2026-02-09T14:07:55Z", "version": "1", "changeset": "178314037", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "87", "addr:street": "2-я улица", "building": "house", "building:levels": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2792116, 53.6009092 ], [ 49.2791979, 53.6008637 ], [ 49.2793218, 53.6008505 ], [ 49.2793355, 53.600896 ], [ 49.2792116, 53.6009092 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588470", "properties": { "timestamp": "2026-02-09T14:07:55Z", "version": "1", "changeset": "178314037", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "88", "addr:street": "1-я улица", "building": "house", "building:levels": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2786409, 53.6009704 ], [ 49.2786315, 53.6009264 ], [ 49.2787012, 53.6009211 ], [ 49.2787106, 53.6009652 ], [ 49.2786409, 53.6009704 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588471", "properties": { "timestamp": "2026-02-09T14:07:55", "version": "1", "changeset": "178314037", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "86", "addr:street": "1-я улица", "building": "house", "building:levels": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.27859, 53.6007868 ], [ 49.2785764, 53.6007414 ], [ 49.2786626, 53.6007323 ], [ 49.2786762, 53.6007777 ], [ 49.27859, 53.6007868 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588473", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "85", "addr:street": "2-я улица", "building": "house", "building:levels": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2792049, 53.6007319 ], [ 49.279195, 53.6006798 ], [ 49.2792762, 53.6006744 ], [ 49.279286, 53.6007265 ], [ 49.2792049, 53.6007319 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588474", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "83", "addr:street": "2-я улица", "building": "house", "building:levels": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2791111, 53.6005857 ], [ 49.2790806, 53.600483 ], [ 49.279216, 53.6004689 ], [ 49.2792465, 53.6005716 ], [ 49.2791111, 53.6005857 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588475", "properties": { "timestamp": "2026-02-09T14:07:55Z", "version": "1", "changeset": "178314037", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "84", "addr:street": "1-я улица", "building": "house", "building:levels": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2785391, 53.6006199 ], [ 49.2785239, 53.600558 ], [ 49.2786283, 53.600549 ], [ 49.2786434, 53.6006109 ], [ 49.2785391, 53.6006199 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588476", "properties": { "timestamp": "2026-02-09T14:07:55Z", "version": "1", "changeset": "178314037", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "81", "addr:street": "2-я улица", "building": "house", "building:levels": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2790121, 53.6003868 ], [ 49.2789921, 53.6003191 ], [ 49.2791408, 53.6003037 ], [ 49.2791607, 53.6003713 ], [ 49.2790121, 53.6003868 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588477", "properties": { "timestamp": "2026-02-09T14:07:55Z", "version": "1", "changeset": "178314037", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "82", "addr:street": "1-я улица", "building": "house", "building:levels": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2784709, 53.6003622 ], [ 49.2784509, 53.6003126 ], [ 49.2785722, 53.6002953 ], [ 49.2785922, 53.600345 ], [ 49.2784709, 53.6003622 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588478", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "80", "addr:street": "1-я улица", "building": "house", "building:levels": "2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2784454, 53.6002583 ], [ 49.2784298, 53.6002083 ], [ 49.2785517, 53.600195 ], [ 49.2785673, 53.6002449 ], [ 49.2784454, 53.6002583 ] ] ] } },
-{ "type": "Feature", "id": "way/1475588479", "properties": { "timestamp": "2026-02-09T14:33:54Z", "version": "2", "changeset": "178315130", "user": "dmgorsh", "uid": "23805865", "addr:city": "сельское поселение Тимофеевка", "addr:housenumber": "79", "addr:street": "2-я улица", "building": "house", "building:levels": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2790461, 53.6001901 ], [ 49.2790349, 53.6001496 ], [ 49.279119, 53.6001414 ], [ 49.2791301, 53.6001819 ], [ 49.2790461, 53.6001901 ] ] ] } }
-]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/1475588464",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "142",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1475588464"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.279367,
+                            53.6014369
+                        ],
+                        [
+                            49.2793515,
+                            53.6013821
+                        ],
+                        [
+                            49.2794702,
+                            53.6013702
+                        ],
+                        [
+                            49.2794858,
+                            53.6014251
+                        ],
+                        [
+                            49.279367,
+                            53.6014369
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588465",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "49А",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1475588465"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2787424,
+                            53.601351
+                        ],
+                        [
+                            49.2787206,
+                            53.6012727
+                        ],
+                        [
+                            49.2788097,
+                            53.601264
+                        ],
+                        [
+                            49.2788315,
+                            53.6013423
+                        ],
+                        [
+                            49.2787424,
+                            53.601351
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588466",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "140",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1475588466"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2792763,
+                            53.6010945
+                        ],
+                        [
+                            49.2792538,
+                            53.6010187
+                        ],
+                        [
+                            49.2793817,
+                            53.6010053
+                        ],
+                        [
+                            49.2794042,
+                            53.6010811
+                        ],
+                        [
+                            49.2792763,
+                            53.6010945
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588467",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "49",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1475588467"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2786624,
+                            53.6011041
+                        ],
+                        [
+                            49.2786512,
+                            53.601059
+                        ],
+                        [
+                            49.278758,
+                            53.6010496
+                        ],
+                        [
+                            49.2787692,
+                            53.6010947
+                        ],
+                        [
+                            49.2786624,
+                            53.6011041
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588468",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "141",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1475588468"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2793506,
+                            53.6012418
+                        ],
+                        [
+                            49.279343,
+                            53.601214
+                        ],
+                        [
+                            49.2793018,
+                            53.6012179
+                        ],
+                        [
+                            49.2792964,
+                            53.601198
+                        ],
+                        [
+                            49.279334,
+                            53.6011944
+                        ],
+                        [
+                            49.2793311,
+                            53.6011837
+                        ],
+                        [
+                            49.2794061,
+                            53.6011766
+                        ],
+                        [
+                            49.279422,
+                            53.601235
+                        ],
+                        [
+                            49.2793506,
+                            53.6012418
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588469",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "139",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "id": "way/1475588469"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2792116,
+                            53.6009092
+                        ],
+                        [
+                            49.2791979,
+                            53.6008637
+                        ],
+                        [
+                            49.2793218,
+                            53.6008505
+                        ],
+                        [
+                            49.2793355,
+                            53.600896
+                        ],
+                        [
+                            49.2792116,
+                            53.6009092
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588470",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "50",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "id": "way/1475588470"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2786409,
+                            53.6009704
+                        ],
+                        [
+                            49.2786315,
+                            53.6009264
+                        ],
+                        [
+                            49.2787012,
+                            53.6009211
+                        ],
+                        [
+                            49.2787106,
+                            53.6009652
+                        ],
+                        [
+                            49.2786409,
+                            53.6009704
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588471",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "51",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "id": "way/1475588471"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.27859,
+                            53.6007868
+                        ],
+                        [
+                            49.2785764,
+                            53.6007414
+                        ],
+                        [
+                            49.2786626,
+                            53.6007323
+                        ],
+                        [
+                            49.2786762,
+                            53.6007777
+                        ],
+                        [
+                            49.27859,
+                            53.6007868
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588473",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "138",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1475588473"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2792049,
+                            53.6007319
+                        ],
+                        [
+                            49.279195,
+                            53.6006798
+                        ],
+                        [
+                            49.2792762,
+                            53.6006744
+                        ],
+                        [
+                            49.279286,
+                            53.6007265
+                        ],
+                        [
+                            49.2792049,
+                            53.6007319
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588474",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "137",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1475588474"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2791111,
+                            53.6005857
+                        ],
+                        [
+                            49.2790806,
+                            53.600483
+                        ],
+                        [
+                            49.279216,
+                            53.6004689
+                        ],
+                        [
+                            49.2792465,
+                            53.6005716
+                        ],
+                        [
+                            49.2791111,
+                            53.6005857
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588475",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "52",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "id": "way/1475588475"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2785391,
+                            53.6006199
+                        ],
+                        [
+                            49.2785239,
+                            53.600558
+                        ],
+                        [
+                            49.2786283,
+                            53.600549
+                        ],
+                        [
+                            49.2786434,
+                            53.6006109
+                        ],
+                        [
+                            49.2785391,
+                            53.6006199
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588476",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "136",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "id": "way/1475588476"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2790121,
+                            53.6003868
+                        ],
+                        [
+                            49.2789921,
+                            53.6003191
+                        ],
+                        [
+                            49.2791408,
+                            53.6003037
+                        ],
+                        [
+                            49.2791607,
+                            53.6003713
+                        ],
+                        [
+                            49.2790121,
+                            53.6003868
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588477",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "сельское поселение Тимофеевка",
+                "addr:housenumber": "53",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "id": "way/1475588477"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2784709,
+                            53.6003622
+                        ],
+                        [
+                            49.2784509,
+                            53.6003126
+                        ],
+                        [
+                            49.2785722,
+                            53.6002953
+                        ],
+                        [
+                            49.2785922,
+                            53.600345
+                        ],
+                        [
+                            49.2784709,
+                            53.6003622
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588478",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "с. Русская Борковка",
+                "addr:housenumber": "54",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "1-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1475588478"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2784454,
+                            53.6002583
+                        ],
+                        [
+                            49.2784298,
+                            53.6002083
+                        ],
+                        [
+                            49.2785517,
+                            53.600195
+                        ],
+                        [
+                            49.2785673,
+                            53.6002449
+                        ],
+                        [
+                            49.2784454,
+                            53.6002583
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1475588479",
+            "properties": {
+                "timestamp": "2026-02-11T09:47:01Z",
+                "version": "3",
+                "changeset": "178397523",
+                "user": "dmgorsh",
+                "uid": "23805865",
+                "addr:city": "с. Русская Борковка",
+                "addr:housenumber": "135",
+                "addr:place": "СНТ \"Сборщик\"",
+                "addr:street": "2-я улица",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1475588479"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2790461,
+                            53.6001901
+                        ],
+                        [
+                            49.2790349,
+                            53.6001496
+                        ],
+                        [
+                            49.279119,
+                            53.6001414
+                        ],
+                        [
+                            49.2791301,
+                            53.6001819
+                        ],
+                        [
+                            49.2790461,
+                            53.6001901
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
 }
