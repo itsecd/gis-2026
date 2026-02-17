@@ -635,6 +635,63 @@
         },
         {
             "type": "Feature",
+            "id": "way/1354876394",
+            "properties": {
+                "timestamp": "2025-01-28T08:22:33Z",
+                "version": "1",
+                "changeset": "161847555",
+                "user": "maxlax",
+                "uid": "15972813",
+                "landuse": "allotments",
+                "name": "СНТ Автохозяйства",
+                "id": "way/1354876394"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.6625635,
+                            53.2832849
+                        ],
+                        [
+                            50.6624077,
+                            53.2834372
+                        ],
+                        [
+                            50.6620538,
+                            53.2836192
+                        ],
+                        [
+                            50.6619759,
+                            53.2834669
+                        ],
+                        [
+                            50.6619406,
+                            53.2833314
+                        ],
+                        [
+                            50.6618485,
+                            53.2832426
+                        ],
+                        [
+                            50.662613,
+                            53.2816725
+                        ],
+                        [
+                            50.6633845,
+                            53.2818037
+                        ],
+                        [
+                            50.6625635,
+                            53.2832849
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "way/1354876395",
             "properties": {
                 "timestamp": "2026-02-07T18:29:39Z",
@@ -775,13 +832,14 @@
             "type": "Feature",
             "id": "way/1475084255",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "60",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -819,13 +877,14 @@
             "type": "Feature",
             "id": "way/1475084256",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "61",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -863,13 +922,14 @@
             "type": "Feature",
             "id": "way/1475084257",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "62",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -907,13 +967,14 @@
             "type": "Feature",
             "id": "way/1475084258",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "3",
+                "addr:place": "СНТ Астра",
                 "addr:street": "СНТ Астра",
                 "building": "house",
                 "building:levels": "2",
@@ -951,13 +1012,14 @@
             "type": "Feature",
             "id": "way/1475084259",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "63",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -995,13 +1057,14 @@
             "type": "Feature",
             "id": "way/1475084260",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "64",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1039,13 +1102,14 @@
             "type": "Feature",
             "id": "way/1475084261",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "65",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1083,13 +1147,14 @@
             "type": "Feature",
             "id": "way/1475084262",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "66",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1127,13 +1192,14 @@
             "type": "Feature",
             "id": "way/1475084263",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "68",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1171,13 +1237,14 @@
             "type": "Feature",
             "id": "way/1475084264",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "67",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1215,13 +1282,14 @@
             "type": "Feature",
             "id": "way/1475084265",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "69",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1259,13 +1327,14 @@
             "type": "Feature",
             "id": "way/1475084266",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "70",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1303,17 +1372,17 @@
             "type": "Feature",
             "id": "way/1475084267",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "71",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
-                "house": "bungalow",
                 "id": "way/1475084267"
             },
             "geometry": {
@@ -1348,13 +1417,14 @@
             "type": "Feature",
             "id": "way/1475084268",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "72",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "2",
@@ -1392,13 +1462,14 @@
             "type": "Feature",
             "id": "way/1475084269",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "73",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1436,13 +1507,14 @@
             "type": "Feature",
             "id": "way/1475084270",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "74",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1459,6 +1531,10 @@
                         [
                             50.6678763,
                             53.2834913
+                        ],
+                        [
+                            50.6679224,
+                            53.2835155
                         ],
                         [
                             50.6679533,
@@ -1480,13 +1556,14 @@
             "type": "Feature",
             "id": "way/1475084271",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "75",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "3",
@@ -1524,13 +1601,14 @@
             "type": "Feature",
             "id": "way/1475084272",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "77",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1568,13 +1646,14 @@
             "type": "Feature",
             "id": "way/1475084273",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "78",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1612,13 +1691,14 @@
             "type": "Feature",
             "id": "way/1475084274",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "80",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "11-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1656,13 +1736,14 @@
             "type": "Feature",
             "id": "way/1475084275",
             "properties": {
-                "timestamp": "2026-02-11T09:28:03Z",
-                "version": "2",
-                "changeset": "178396652",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "3",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "6",
+                "addr:place": "СНТ Астра",
                 "addr:street": "СНТ Астра",
                 "building": "house",
                 "building:levels": "2",
@@ -1708,13 +1789,14 @@
             "type": "Feature",
             "id": "way/1476555711",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "58",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "2",
@@ -1752,13 +1834,14 @@
             "type": "Feature",
             "id": "way/1476555712",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "56",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1796,13 +1879,14 @@
             "type": "Feature",
             "id": "way/1476555713",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "41",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "2",
@@ -1856,13 +1940,14 @@
             "type": "Feature",
             "id": "way/1476555714",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "52",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1900,13 +1985,14 @@
             "type": "Feature",
             "id": "way/1476555715",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "37",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1944,13 +2030,14 @@
             "type": "Feature",
             "id": "way/1476555716",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "35",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -1996,13 +2083,14 @@
             "type": "Feature",
             "id": "way/1476555717",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "36",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2040,13 +2128,14 @@
             "type": "Feature",
             "id": "way/1476555718",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "33",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2084,13 +2173,14 @@
             "type": "Feature",
             "id": "way/1476555719",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "29",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2128,13 +2218,14 @@
             "type": "Feature",
             "id": "way/1476555720",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "31",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2172,13 +2263,14 @@
             "type": "Feature",
             "id": "way/1476555721",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "34",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2224,13 +2316,14 @@
             "type": "Feature",
             "id": "way/1476555722",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "32",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2268,13 +2361,14 @@
             "type": "Feature",
             "id": "way/1476555723",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "30",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2312,13 +2406,14 @@
             "type": "Feature",
             "id": "way/1476555724",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "28",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2356,13 +2451,14 @@
             "type": "Feature",
             "id": "way/1476555725",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "27",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2400,13 +2496,14 @@
             "type": "Feature",
             "id": "way/1476555726",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "25",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2444,13 +2541,14 @@
             "type": "Feature",
             "id": "way/1476555727",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "46",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2488,13 +2586,14 @@
             "type": "Feature",
             "id": "way/1476555728",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "40",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2532,13 +2631,14 @@
             "type": "Feature",
             "id": "way/1476555729",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "23",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2576,13 +2676,14 @@
             "type": "Feature",
             "id": "way/1476555730",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "21",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2620,13 +2721,14 @@
             "type": "Feature",
             "id": "way/1476555731",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "42",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "2",
@@ -2664,13 +2766,14 @@
             "type": "Feature",
             "id": "way/1476555732",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "38",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2708,13 +2811,14 @@
             "type": "Feature",
             "id": "way/1476555733",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "19",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2752,13 +2856,14 @@
             "type": "Feature",
             "id": "way/1476555734",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "17",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2796,13 +2901,14 @@
             "type": "Feature",
             "id": "way/1476555735",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "15",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2840,13 +2946,14 @@
             "type": "Feature",
             "id": "way/1476555736",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "13",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2884,13 +2991,14 @@
             "type": "Feature",
             "id": "way/1476555737",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "11",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -2928,15 +3036,15 @@
             "type": "Feature",
             "id": "way/1476555738",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "16",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
-                "bath:open_air": "no",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1476555738"
@@ -2973,13 +3081,14 @@
             "type": "Feature",
             "id": "way/1476555739",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "7",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3017,13 +3126,14 @@
             "type": "Feature",
             "id": "way/1476555740",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "9",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3061,13 +3171,14 @@
             "type": "Feature",
             "id": "way/1476555741",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "3",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "СНТ Астра",
                 "building": "house",
                 "building:levels": "1",
@@ -3105,13 +3216,14 @@
             "type": "Feature",
             "id": "way/1476555742",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "12",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3149,13 +3261,14 @@
             "type": "Feature",
             "id": "way/1476555743",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "10",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3193,13 +3306,14 @@
             "type": "Feature",
             "id": "way/1476555744",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "8",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3237,13 +3351,14 @@
             "type": "Feature",
             "id": "way/1476555745",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "6",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3281,13 +3396,14 @@
             "type": "Feature",
             "id": "way/1476555746",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "2А",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "2",
@@ -3325,13 +3441,14 @@
             "type": "Feature",
             "id": "way/1476555747",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "2Б",
+                "addr:place": "СДТ Полигон",
                 "addr:street": "10-ая линия",
                 "building": "house",
                 "building:levels": "2",
@@ -3393,13 +3510,14 @@
             "type": "Feature",
             "id": "way/1476555748",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "42",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3437,13 +3555,14 @@
             "type": "Feature",
             "id": "way/1476555749",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "40",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3481,13 +3600,14 @@
             "type": "Feature",
             "id": "way/1476555750",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "35",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -3525,13 +3645,14 @@
             "type": "Feature",
             "id": "way/1476555751",
             "properties": {
-                "timestamp": "2026-02-11T16:58:25Z",
-                "version": "1",
-                "changeset": "178415935",
+                "timestamp": "2026-02-17T15:38:07Z",
+                "version": "2",
+                "changeset": "178685692",
                 "user": "Tomashaytis",
                 "uid": "23788005",
                 "addr:city": "Усть-Кинельский",
                 "addr:housenumber": "38",
+                "addr:place": "СДТ Завода им. Фрунзе",
                 "addr:street": "9-ая линия",
                 "building": "house",
                 "building:levels": "1",
@@ -4382,266 +4503,103 @@
         },
         {
             "type": "Feature",
-            "id": "way/1212227641",
+            "id": "way/1212229769",
+            "properties": {
+                "timestamp": "2023-10-01T13:56:00Z",
+                "version": "2",
+                "changeset": "141989529",
+                "user": "Asker-80",
+                "uid": "16506708",
+                "highway": "residential",
+                "name": "7-я линия",
+                "surface": "compacted",
+                "id": "way/1212229769"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        50.6590284,
+                        53.2849302
+                    ],
+                    [
+                        50.6594826,
+                        53.2847212
+                    ],
+                    [
+                        50.6605504,
+                        53.2844943
+                    ],
+                    [
+                        50.6606266,
+                        53.2844781
+                    ],
+                    [
+                        50.6609778,
+                        53.2843252
+                    ],
+                    [
+                        50.6613723,
+                        53.2840574
+                    ],
+                    [
+                        50.6619808,
+                        53.2835902
+                    ],
+                    [
+                        50.6620629,
+                        53.2835565
+                    ],
+                    [
+                        50.6623491,
+                        53.2834027
+                    ],
+                    [
+                        50.6624085,
+                        53.2833727
+                    ],
+                    [
+                        50.6629153,
+                        53.2825088
+                    ],
+                    [
+                        50.6633221,
+                        53.2818309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1212230460",
             "properties": {
                 "timestamp": "2024-04-14T18:07:31Z",
                 "version": "3",
                 "changeset": "150004519",
                 "user": "Asker-80",
                 "uid": "16506708",
-                "highway": "track",
-                "surface": "compacted",
-                "id": "way/1212227641"
+                "highway": "path",
+                "surface": "ground",
+                "id": "way/1212230460"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        50.6702897,
-                        53.2824126
+                        50.6636495,
+                        53.2835392
                     ],
                     [
-                        50.6703913,
-                        53.28237
+                        50.6634466,
+                        53.283504
                     ],
                     [
-                        50.6705155,
-                        53.282307
+                        50.6632293,
+                        53.2834825
                     ],
                     [
-                        50.670609,
-                        53.2820556
-                    ],
-                    [
-                        50.6707568,
-                        53.281737
-                    ],
-                    [
-                        50.6709002,
-                        53.2816163
-                    ],
-                    [
-                        50.6710404,
-                        53.2815381
-                    ],
-                    [
-                        50.6714422,
-                        53.2813984
-                    ],
-                    [
-                        50.671822,
-                        53.2812879
-                    ],
-                    [
-                        50.6720066,
-                        53.2811858
-                    ],
-                    [
-                        50.6721206,
-                        53.2810813
-                    ],
-                    [
-                        50.6720598,
-                        53.280936
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/1212229782",
-            "properties": {
-                "timestamp": "2024-10-12T14:38:42Z",
-                "version": "3",
-                "changeset": "157798792",
-                "user": "Asker-80",
-                "uid": "16506708",
-                "highway": "track",
-                "surface": "compacted",
-                "tracktype": "grade4",
-                "id": "way/1212229782"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        50.656477,
-                        53.2784305
-                    ],
-                    [
-                        50.6566575,
-                        53.2784474
-                    ],
-                    [
-                        50.6579093,
-                        53.2782749
-                    ],
-                    [
-                        50.6589339,
-                        53.2782492
-                    ],
-                    [
-                        50.6601248,
-                        53.2783326
-                    ],
-                    [
-                        50.6607337,
-                        53.2783519
-                    ],
-                    [
-                        50.6608678,
-                        53.2784721
-                    ],
-                    [
-                        50.6614847,
-                        53.2785555
-                    ],
-                    [
-                        50.662917,
-                        53.2788041
-                    ],
-                    [
-                        50.6634052,
-                        53.2790559
-                    ],
-                    [
-                        50.6638477,
-                        53.2793045
-                    ],
-                    [
-                        50.6640838,
-                        53.2793205
-                    ],
-                    [
-                        50.6643305,
-                        53.2792868
-                    ],
-                    [
-                        50.6644941,
-                        53.2792387
-                    ],
-                    [
-                        50.6648267,
-                        53.2792981
-                    ],
-                    [
-                        50.6652881,
-                        53.2795867
-                    ],
-                    [
-                        50.6653122,
-                        53.279691
-                    ],
-                    [
-                        50.6652715,
-                        53.2797501
-                    ],
-                    [
-                        50.665162,
-                        53.2799091
-                    ],
-                    [
-                        50.665162,
-                        53.2801753
-                    ],
-                    [
-                        50.6652452,
-                        53.2803501
-                    ],
-                    [
-                        50.6654356,
-                        53.2804287
-                    ],
-                    [
-                        50.6656716,
-                        53.2804399
-                    ],
-                    [
-                        50.6659506,
-                        53.2805281
-                    ],
-                    [
-                        50.6660391,
-                        53.2806532
-                    ],
-                    [
-                        50.6662644,
-                        53.280913
-                    ],
-                    [
-                        50.666605,
-                        53.2810461
-                    ],
-                    [
-                        50.6671737,
-                        53.2813027
-                    ],
-                    [
-                        50.6672547,
-                        53.2813535
-                    ],
-                    [
-                        50.6675036,
-                        53.2815096
-                    ],
-                    [
-                        50.6675331,
-                        53.2816443
-                    ],
-                    [
-                        50.667482,
-                        53.281719
-                    ],
-                    [
-                        50.6671978,
-                        53.282135
-                    ],
-                    [
-                        50.6667246,
-                        53.2823154
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/1212229783",
-            "properties": {
-                "timestamp": "2023-10-19T13:56:12Z",
-                "version": "2",
-                "changeset": "142817405",
-                "user": "Asker-80",
-                "uid": "16506708",
-                "highway": "track",
-                "surface": "compacted",
-                "id": "way/1212229783"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        50.667482,
-                        53.281719
-                    ],
-                    [
-                        50.6676806,
-                        53.281795
-                    ],
-                    [
-                        50.6677825,
-                        53.2819024
-                    ],
-                    [
-                        50.6677182,
-                        53.282066
-                    ],
-                    [
-                        50.6673802,
-                        53.2823803
-                    ],
-                    [
-                        50.6673258,
-                        53.2824098
+                        50.6623491,
+                        53.2834027
                     ]
                 ]
             }

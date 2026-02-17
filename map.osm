@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3720467 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
- <bounds minlat="53.2822900" minlon="50.6641000" maxlat="53.2856100" maxlon="50.6715000"/>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (4074906 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.2824520" minlon="50.6623580" maxlat="53.2856530" maxlon="50.6722500"/>
  <node id="292810323" visible="true" version="5" changeset="79183492" timestamp="2020-01-04T09:32:48Z" user="Corsa5" uid="7731115" lat="53.2829981" lon="50.6462423"/>
  <node id="292810325" visible="true" version="4" changeset="53563357" timestamp="2017-11-06T18:59:46Z" user="Maxx66" uid="297892" lat="53.2834723" lon="50.6473809"/>
  <node id="292810326" visible="true" version="6" changeset="53563357" timestamp="2017-11-06T18:59:46Z" user="Maxx66" uid="297892" lat="53.2838173" lon="50.6483538"/>
@@ -128,21 +128,11 @@
  <node id="9879321481" visible="true" version="2" changeset="141733550" timestamp="2023-09-25T14:11:59Z" user="Asker-80" uid="16506708" lat="53.2826033" lon="50.6699395"/>
  <node id="9879321482" visible="true" version="6" changeset="171929068" timestamp="2025-09-14T17:17:00Z" user="Asker-80" uid="16506708" lat="53.2824976" lon="50.6701466"/>
  <node id="9879321483" visible="true" version="6" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708" lat="53.2823700" lon="50.6703913"/>
- <node id="9879321484" visible="true" version="4" changeset="141988694" timestamp="2023-10-01T13:33:07Z" user="Asker-80" uid="16506708" lat="53.2823070" lon="50.6705155"/>
- <node id="9879321485" visible="true" version="2" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708" lat="53.2817370" lon="50.6707568"/>
- <node id="9879321486" visible="true" version="1" changeset="123441168" timestamp="2022-07-10T17:28:55Z" user="Asker-80" uid="16506708" lat="53.2816163" lon="50.6709002"/>
- <node id="9879321487" visible="true" version="1" changeset="123441168" timestamp="2022-07-10T17:28:55Z" user="Asker-80" uid="16506708" lat="53.2815381" lon="50.6710404"/>
- <node id="9879321488" visible="true" version="1" changeset="123441168" timestamp="2022-07-10T17:28:55Z" user="Asker-80" uid="16506708" lat="53.2813984" lon="50.6714422"/>
- <node id="9879321489" visible="true" version="2" changeset="156914286" timestamp="2024-09-21T14:20:24Z" user="Asker-80" uid="16506708" lat="53.2812879" lon="50.6718220"/>
- <node id="9879321490" visible="true" version="2" changeset="156914286" timestamp="2024-09-21T14:20:24Z" user="Asker-80" uid="16506708" lat="53.2811858" lon="50.6720066"/>
- <node id="9879321491" visible="true" version="2" changeset="156914286" timestamp="2024-09-21T14:20:24Z" user="Asker-80" uid="16506708" lat="53.2810813" lon="50.6721206"/>
- <node id="9879321492" visible="true" version="2" changeset="156914286" timestamp="2024-09-21T14:20:24Z" user="Asker-80" uid="16506708" lat="53.2809360" lon="50.6720598"/>
  <node id="9879342257" visible="true" version="1" changeset="123441168" timestamp="2022-07-10T17:28:55Z" user="Asker-80" uid="16506708" lat="53.2954193" lon="50.6917433"/>
  <node id="9879366184" visible="true" version="1" changeset="123442010" timestamp="2022-07-10T17:55:40Z" user="Asker-80" uid="16506708" lat="53.2954026" lon="50.6939787"/>
  <node id="9879400563" visible="true" version="1" changeset="123442321" timestamp="2022-07-10T18:05:46Z" user="Asker-80" uid="16506708" lat="53.2950533" lon="50.6901586"/>
  <node id="9879400565" visible="true" version="1" changeset="123442321" timestamp="2022-07-10T18:05:46Z" user="Asker-80" uid="16506708" lat="53.2952885" lon="50.6908034"/>
  <node id="9988207243" visible="true" version="1" changeset="125565936" timestamp="2022-08-30T11:58:13Z" user="lamax" uid="1860634" lat="53.2843772" lon="50.6518357"/>
- <node id="11217181667" visible="true" version="5" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708" lat="53.2820556" lon="50.6706090"/>
  <node id="11217181668" visible="true" version="1" changeset="141713203" timestamp="2023-09-25T05:46:48Z" user="Asker-80" uid="16506708" lat="53.2824113" lon="50.6706821"/>
  <node id="11217181669" visible="true" version="1" changeset="141713203" timestamp="2023-09-25T05:46:48Z" user="Asker-80" uid="16506708" lat="53.2823773" lon="50.6712594"/>
  <node id="11217181670" visible="true" version="1" changeset="141713203" timestamp="2023-09-25T05:46:48Z" user="Asker-80" uid="16506708" lat="53.2823566" lon="50.6714099"/>
@@ -157,7 +147,15 @@
  <node id="11230921936" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2922194" lon="50.6565052"/>
  <node id="11231000986" visible="true" version="3" changeset="171929068" timestamp="2025-09-14T17:17:00Z" user="Asker-80" uid="16506708" lat="53.2824126" lon="50.6702897"/>
  <node id="11231001417" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2849302" lon="50.6590284"/>
+ <node id="11231001418" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2847212" lon="50.6594826"/>
+ <node id="11231001419" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2844781" lon="50.6606266"/>
+ <node id="11231001420" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2843252" lon="50.6609778"/>
+ <node id="11231001421" visible="true" version="2" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2835902" lon="50.6619808"/>
+ <node id="11231001422" visible="true" version="2" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2833727" lon="50.6624085"/>
+ <node id="11231001423" visible="true" version="2" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2825088" lon="50.6629153"/>
+ <node id="11231001424" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2818309" lon="50.6633221"/>
  <node id="11231001425" visible="true" version="2" changeset="174413546" timestamp="2025-11-09T11:58:03Z" user="Corsa5" uid="7731115" lat="53.2847590" lon="50.6567296"/>
+ <node id="11231001436" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2844943" lon="50.6605504"/>
  <node id="11231017537" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2922864" lon="50.6566920"/>
  <node id="11231017538" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2925879" lon="50.6565986"/>
  <node id="11231017539" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2929340" lon="50.6581864"/>
@@ -183,46 +181,16 @@
  <node id="11231017559" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2896343" lon="50.6528058"/>
  <node id="11231017560" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2905351" lon="50.6516607"/>
  <node id="11231017561" visible="true" version="1" changeset="141988169" timestamp="2023-10-01T13:21:22Z" user="Asker-80" uid="16506708" lat="53.2914867" lon="50.6512875"/>
+ <node id="11231053630" visible="true" version="2" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2834027" lon="50.6623491"/>
+ <node id="11231056438" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2840574" lon="50.6613723"/>
+ <node id="11231056440" visible="true" version="2" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2835565" lon="50.6620629"/>
  <node id="11231056463" visible="true" version="2" changeset="174413546" timestamp="2025-11-09T11:58:03Z" user="Corsa5" uid="7731115" lat="53.2846361" lon="50.6551245"/>
- <node id="11231056479" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2784305" lon="50.6564770"/>
- <node id="11231056482" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2784474" lon="50.6566575"/>
- <node id="11231056483" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2782749" lon="50.6579093"/>
- <node id="11231056484" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2782492" lon="50.6589339"/>
- <node id="11231056485" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2783326" lon="50.6601248"/>
- <node id="11231056486" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2783519" lon="50.6607337"/>
- <node id="11231056487" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2784721" lon="50.6608678"/>
- <node id="11231056488" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2785555" lon="50.6614847"/>
- <node id="11231056489" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2788041" lon="50.6629170"/>
- <node id="11231056490" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2790559" lon="50.6634052"/>
- <node id="11231056491" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2793045" lon="50.6638477"/>
- <node id="11231056492" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2793205" lon="50.6640838"/>
- <node id="11231056493" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2792868" lon="50.6643305"/>
- <node id="11231056494" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2792387" lon="50.6644941"/>
- <node id="11231056495" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2792981" lon="50.6648267"/>
- <node id="11231056496" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2795867" lon="50.6652881"/>
- <node id="11231056497" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2796910" lon="50.6653122"/>
- <node id="11231056498" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2799091" lon="50.6651620"/>
- <node id="11231056499" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2801753" lon="50.6651620"/>
- <node id="11231056500" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2803501" lon="50.6652452"/>
- <node id="11231056501" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2804287" lon="50.6654356"/>
- <node id="11231056502" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2804399" lon="50.6656716"/>
- <node id="11231056503" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2805281" lon="50.6659506"/>
- <node id="11231056504" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2806532" lon="50.6660391"/>
- <node id="11231056505" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2809130" lon="50.6662644"/>
- <node id="11231056506" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2810461" lon="50.6666050"/>
- <node id="11231056507" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2813027" lon="50.6671737"/>
- <node id="11231056508" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2815096" lon="50.6675036"/>
- <node id="11231056509" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2816443" lon="50.6675331"/>
- <node id="11231056510" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2821350" lon="50.6671978"/>
  <node id="11231056511" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2823154" lon="50.6667246"/>
- <node id="11231056512" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2817190" lon="50.6674820"/>
- <node id="11231056513" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2817950" lon="50.6676806"/>
  <node id="11231056514" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2819024" lon="50.6677825"/>
- <node id="11231056515" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2820660" lon="50.6677182"/>
- <node id="11231056516" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2823803" lon="50.6673802"/>
  <node id="11231056517" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2824098" lon="50.6673258"/>
- <node id="11231056518" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2813535" lon="50.6672547"/>
  <node id="11231056521" visible="true" version="1" changeset="141989378" timestamp="2023-10-01T13:51:39Z" user="Asker-80" uid="16506708" lat="53.2820498" lon="50.6654458"/>
+ <node id="11250860706" visible="true" version="1" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2835040" lon="50.6634466"/>
+ <node id="11250860707" visible="true" version="1" changeset="142346375" timestamp="2023-10-09T11:53:02Z" user="Asker-80" uid="16506708" lat="53.2834825" lon="50.6632293"/>
  <node id="11817037551" visible="true" version="1" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708" lat="53.2843036" lon="50.6708743"/>
  <node id="11817037552" visible="true" version="1" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708" lat="53.2841809" lon="50.6709734"/>
  <node id="11817037553" visible="true" version="2" changeset="171929068" timestamp="2025-09-14T17:17:00Z" user="Asker-80" uid="16506708" lat="53.2841204" lon="50.6709980"/>
@@ -244,7 +212,6 @@
  <node id="12246370007" visible="true" version="1" changeset="157798792" timestamp="2024-10-12T14:38:42Z" user="Asker-80" uid="16506708" lat="53.2822227" lon="50.6681920"/>
  <node id="12246370008" visible="true" version="1" changeset="157798792" timestamp="2024-10-12T14:38:42Z" user="Asker-80" uid="16506708" lat="53.2824220" lon="50.6684319"/>
  <node id="12246370009" visible="true" version="1" changeset="157798792" timestamp="2024-10-12T14:38:42Z" user="Asker-80" uid="16506708" lat="53.2826549" lon="50.6687595"/>
- <node id="12246370010" visible="true" version="1" changeset="157798792" timestamp="2024-10-12T14:38:42Z" user="Asker-80" uid="16506708" lat="53.2797501" lon="50.6652715"/>
  <node id="12538676759" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2846687" lon="50.6568158"/>
  <node id="12538676760" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2844935" lon="50.6550297"/>
  <node id="12538676761" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2844360" lon="50.6543851"/>
@@ -261,6 +228,7 @@
  <node id="12538676772" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2853415" lon="50.6702931"/>
  <node id="12538676773" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2855447" lon="50.6701656"/>
  <node id="12538676774" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2856970" lon="50.6699816"/>
+ <node id="12538676775" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2818037" lon="50.6633845"/>
  <node id="12538676776" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2824822" lon="50.6645444"/>
  <node id="12538676777" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2818215" lon="50.6643299"/>
  <node id="12538676778" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2817381" lon="50.6652847"/>
@@ -651,6 +619,7 @@
  <node id="13543838742" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005" lat="53.2825377" lon="50.6649593"/>
  <node id="13543838743" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005" lat="53.2825881" lon="50.6648930"/>
  <node id="13543838744" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005" lat="53.2825847" lon="50.6648965"/>
+ <node id="13573737480" visible="true" version="1" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005" lat="53.2835155" lon="50.6679224"/>
  <way id="636824165" visible="true" version="18" changeset="174413681" timestamp="2025-11-09T12:01:53Z" user="Corsa5" uid="7731115">
   <nd ref="1383232896"/>
   <nd ref="1456534601"/>
@@ -897,70 +866,30 @@
   <tag k="motor_vehicle" v="no"/>
   <tag k="surface" v="compacted"/>
  </way>
- <way id="1212227641" visible="true" version="3" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708">
-  <nd ref="11231000986"/>
-  <nd ref="9879321483"/>
-  <nd ref="9879321484"/>
-  <nd ref="11217181667"/>
-  <nd ref="9879321485"/>
-  <nd ref="9879321486"/>
-  <nd ref="9879321487"/>
-  <nd ref="9879321488"/>
-  <nd ref="9879321489"/>
-  <nd ref="9879321490"/>
-  <nd ref="9879321491"/>
-  <nd ref="9879321492"/>
-  <tag k="highway" v="track"/>
+ <way id="1212229769" visible="true" version="2" changeset="141989529" timestamp="2023-10-01T13:56:00Z" user="Asker-80" uid="16506708">
+  <nd ref="11231001417"/>
+  <nd ref="11231001418"/>
+  <nd ref="11231001436"/>
+  <nd ref="11231001419"/>
+  <nd ref="11231001420"/>
+  <nd ref="11231056438"/>
+  <nd ref="11231001421"/>
+  <nd ref="11231056440"/>
+  <nd ref="11231053630"/>
+  <nd ref="11231001422"/>
+  <nd ref="11231001423"/>
+  <nd ref="11231001424"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="7-я линия"/>
   <tag k="surface" v="compacted"/>
  </way>
- <way id="1212229782" visible="true" version="3" changeset="157798792" timestamp="2024-10-12T14:38:42Z" user="Asker-80" uid="16506708">
-  <nd ref="11231056479"/>
-  <nd ref="11231056482"/>
-  <nd ref="11231056483"/>
-  <nd ref="11231056484"/>
-  <nd ref="11231056485"/>
-  <nd ref="11231056486"/>
-  <nd ref="11231056487"/>
-  <nd ref="11231056488"/>
-  <nd ref="11231056489"/>
-  <nd ref="11231056490"/>
-  <nd ref="11231056491"/>
-  <nd ref="11231056492"/>
-  <nd ref="11231056493"/>
-  <nd ref="11231056494"/>
-  <nd ref="11231056495"/>
-  <nd ref="11231056496"/>
-  <nd ref="11231056497"/>
-  <nd ref="12246370010"/>
-  <nd ref="11231056498"/>
-  <nd ref="11231056499"/>
-  <nd ref="11231056500"/>
-  <nd ref="11231056501"/>
-  <nd ref="11231056502"/>
-  <nd ref="11231056503"/>
-  <nd ref="11231056504"/>
-  <nd ref="11231056505"/>
-  <nd ref="11231056506"/>
-  <nd ref="11231056507"/>
-  <nd ref="11231056518"/>
-  <nd ref="11231056508"/>
-  <nd ref="11231056509"/>
-  <nd ref="11231056512"/>
-  <nd ref="11231056510"/>
-  <nd ref="11231056511"/>
-  <tag k="highway" v="track"/>
-  <tag k="surface" v="compacted"/>
-  <tag k="tracktype" v="grade4"/>
- </way>
- <way id="1212229783" visible="true" version="2" changeset="142817405" timestamp="2023-10-19T13:56:12Z" user="Asker-80" uid="16506708">
-  <nd ref="11231056512"/>
-  <nd ref="11231056513"/>
-  <nd ref="11231056514"/>
-  <nd ref="11231056515"/>
-  <nd ref="11231056516"/>
-  <nd ref="11231056517"/>
-  <tag k="highway" v="track"/>
-  <tag k="surface" v="compacted"/>
+ <way id="1212230460" visible="true" version="3" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708">
+  <nd ref="9879321459"/>
+  <nd ref="11250860706"/>
+  <nd ref="11250860707"/>
+  <nd ref="11231053630"/>
+  <tag k="highway" v="path"/>
+  <tag k="surface" v="ground"/>
  </way>
  <way id="1272572481" visible="true" version="1" changeset="150004519" timestamp="2024-04-14T18:07:31Z" user="Asker-80" uid="16506708">
   <nd ref="11817037566"/>
@@ -1031,6 +960,19 @@
   <nd ref="12538676759"/>
   <tag k="landuse" v="allotments"/>
   <tag k="name" v="СДТ Завода им. Фрунзе"/>
+ </way>
+ <way id="1354876394" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813">
+  <nd ref="12538676769"/>
+  <nd ref="12538676775"/>
+  <nd ref="12538676763"/>
+  <nd ref="12538676764"/>
+  <nd ref="12538676765"/>
+  <nd ref="12538676766"/>
+  <nd ref="12538676767"/>
+  <nd ref="12538676768"/>
+  <nd ref="12538676769"/>
+  <tag k="landuse" v="allotments"/>
+  <tag k="name" v="СНТ Автохозяйства"/>
  </way>
  <way id="1354876395" visible="true" version="3" changeset="178239937" timestamp="2026-02-07T18:29:39Z" user="Tomashaytis" uid="23788005">
   <nd ref="12538676771"/>
@@ -1150,7 +1092,7 @@
   <tag k="waterway" v="stream"/>
   <tag k="width" v="4"/>
  </way>
- <way id="1475084255" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084255" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592848"/>
   <nd ref="13532592849"/>
   <nd ref="13532592850"/>
@@ -1158,11 +1100,12 @@
   <nd ref="13532592848"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="60"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084256" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084256" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592852"/>
   <nd ref="13532592853"/>
   <nd ref="13532592854"/>
@@ -1170,11 +1113,12 @@
   <nd ref="13532592852"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084257" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084257" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592856"/>
   <nd ref="13532592857"/>
   <nd ref="13532592858"/>
@@ -1182,11 +1126,12 @@
   <nd ref="13532592856"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="62"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084258" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084258" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13542795184"/>
   <nd ref="13532592861"/>
   <nd ref="13532592862"/>
@@ -1194,11 +1139,12 @@
   <nd ref="13542795184"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:place" v="СНТ Астра"/>
   <tag k="addr:street" v="СНТ Астра"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1475084259" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084259" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592864"/>
   <nd ref="13532592865"/>
   <nd ref="13532592866"/>
@@ -1206,11 +1152,12 @@
   <nd ref="13532592864"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084260" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084260" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592868"/>
   <nd ref="13532592869"/>
   <nd ref="13532592870"/>
@@ -1218,11 +1165,12 @@
   <nd ref="13532592868"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="64"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084261" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084261" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592874"/>
   <nd ref="13532592875"/>
   <nd ref="13532592876"/>
@@ -1230,11 +1178,12 @@
   <nd ref="13532592874"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="65"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084262" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084262" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592878"/>
   <nd ref="13532592879"/>
   <nd ref="13532592880"/>
@@ -1242,11 +1191,12 @@
   <nd ref="13532592878"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084263" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084263" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592882"/>
   <nd ref="13532592883"/>
   <nd ref="13532592884"/>
@@ -1254,11 +1204,12 @@
   <nd ref="13532592882"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084264" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084264" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592886"/>
   <nd ref="13532592887"/>
   <nd ref="13532592888"/>
@@ -1266,11 +1217,12 @@
   <nd ref="13532592886"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="67"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084265" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084265" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592890"/>
   <nd ref="13532592891"/>
   <nd ref="13532592892"/>
@@ -1278,11 +1230,12 @@
   <nd ref="13532592890"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084266" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084266" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592894"/>
   <nd ref="13532592895"/>
   <nd ref="13532592896"/>
@@ -1290,11 +1243,12 @@
   <nd ref="13532592894"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="70"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084267" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084267" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532592898"/>
   <nd ref="13532592899"/>
   <nd ref="13532592900"/>
@@ -1302,12 +1256,12 @@
   <nd ref="13532592898"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
-  <tag k="house" v="bungalow"/>
  </way>
- <way id="1475084268" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084268" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598802"/>
   <nd ref="13532598803"/>
   <nd ref="13532598804"/>
@@ -1315,11 +1269,12 @@
   <nd ref="13532598802"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="72"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1475084269" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084269" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598806"/>
   <nd ref="13532598807"/>
   <nd ref="13532598808"/>
@@ -1327,23 +1282,26 @@
   <nd ref="13532598806"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="73"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084270" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084270" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598810"/>
   <nd ref="13532598811"/>
+  <nd ref="13573737480"/>
   <nd ref="13532598812"/>
   <nd ref="13532598813"/>
   <nd ref="13532598810"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="74"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084271" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084271" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598814"/>
   <nd ref="13532598815"/>
   <nd ref="13532598816"/>
@@ -1351,11 +1309,12 @@
   <nd ref="13532598814"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="75"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="3"/>
  </way>
- <way id="1475084272" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084272" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598818"/>
   <nd ref="13532598819"/>
   <nd ref="13532598820"/>
@@ -1363,11 +1322,12 @@
   <nd ref="13532598818"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="77"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084273" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084273" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598822"/>
   <nd ref="13532598823"/>
   <nd ref="13532598824"/>
@@ -1375,11 +1335,12 @@
   <nd ref="13532598822"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="78"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084274" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084274" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598826"/>
   <nd ref="13532598827"/>
   <nd ref="13532598828"/>
@@ -1387,11 +1348,12 @@
   <nd ref="13532598826"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="80"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="11-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1475084275" visible="true" version="2" changeset="178396652" timestamp="2026-02-11T09:28:03Z" user="Tomashaytis" uid="23788005">
+ <way id="1475084275" visible="true" version="3" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13532598830"/>
   <nd ref="13532598831"/>
   <nd ref="13532598832"/>
@@ -1401,11 +1363,12 @@
   <nd ref="13532598830"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:place" v="СНТ Астра"/>
   <tag k="addr:street" v="СНТ Астра"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476555711" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555711" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820567"/>
   <nd ref="13543820568"/>
   <nd ref="13543820569"/>
@@ -1413,11 +1376,12 @@
   <nd ref="13543820567"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476555712" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555712" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820571"/>
   <nd ref="13543820572"/>
   <nd ref="13543820573"/>
@@ -1425,11 +1389,12 @@
   <nd ref="13543820571"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555713" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555713" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820575"/>
   <nd ref="13543820576"/>
   <nd ref="13543820577"/>
@@ -1441,11 +1406,12 @@
   <nd ref="13543820575"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476555714" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555714" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820583"/>
   <nd ref="13543820584"/>
   <nd ref="13543820585"/>
@@ -1453,11 +1419,12 @@
   <nd ref="13543820583"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555715" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555715" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820587"/>
   <nd ref="13543820588"/>
   <nd ref="13543820589"/>
@@ -1465,11 +1432,12 @@
   <nd ref="13543820587"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555716" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555716" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820591"/>
   <nd ref="13543820592"/>
   <nd ref="13543820593"/>
@@ -1479,11 +1447,12 @@
   <nd ref="13543820591"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555717" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555717" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543820597"/>
   <nd ref="13543820598"/>
   <nd ref="13543820599"/>
@@ -1491,11 +1460,12 @@
   <nd ref="13543820597"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555718" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555718" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838601"/>
   <nd ref="13543838602"/>
   <nd ref="13543838603"/>
@@ -1503,11 +1473,12 @@
   <nd ref="13543838601"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555719" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555719" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838605"/>
   <nd ref="13543838606"/>
   <nd ref="13543838607"/>
@@ -1515,11 +1486,12 @@
   <nd ref="13543838605"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555720" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555720" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838609"/>
   <nd ref="13543838610"/>
   <nd ref="13543838611"/>
@@ -1527,11 +1499,12 @@
   <nd ref="13543838609"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555721" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555721" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838613"/>
   <nd ref="13543838614"/>
   <nd ref="13543838615"/>
@@ -1541,11 +1514,12 @@
   <nd ref="13543838613"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555722" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555722" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838619"/>
   <nd ref="13543838620"/>
   <nd ref="13543838621"/>
@@ -1553,11 +1527,12 @@
   <nd ref="13543838619"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555723" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555723" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838623"/>
   <nd ref="13543838624"/>
   <nd ref="13543838625"/>
@@ -1565,11 +1540,12 @@
   <nd ref="13543838623"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555724" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555724" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838627"/>
   <nd ref="13543838628"/>
   <nd ref="13543838629"/>
@@ -1577,11 +1553,12 @@
   <nd ref="13543838627"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555725" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555725" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838631"/>
   <nd ref="13543838632"/>
   <nd ref="13543838633"/>
@@ -1589,11 +1566,12 @@
   <nd ref="13543838631"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555726" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555726" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838635"/>
   <nd ref="13543838636"/>
   <nd ref="13543838637"/>
@@ -1601,11 +1579,12 @@
   <nd ref="13543838635"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555727" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555727" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838639"/>
   <nd ref="13543838640"/>
   <nd ref="13543838641"/>
@@ -1613,11 +1592,12 @@
   <nd ref="13543838639"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555728" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555728" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838643"/>
   <nd ref="13543838644"/>
   <nd ref="13543838645"/>
@@ -1625,11 +1605,12 @@
   <nd ref="13543838643"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555729" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555729" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838647"/>
   <nd ref="13543838648"/>
   <nd ref="13543838649"/>
@@ -1637,11 +1618,12 @@
   <nd ref="13543838647"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555730" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555730" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838651"/>
   <nd ref="13543838652"/>
   <nd ref="13543838653"/>
@@ -1649,11 +1631,12 @@
   <nd ref="13543838651"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555731" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555731" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838655"/>
   <nd ref="13543838656"/>
   <nd ref="13543838657"/>
@@ -1661,11 +1644,12 @@
   <nd ref="13543838655"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476555732" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555732" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838659"/>
   <nd ref="13543838660"/>
   <nd ref="13543838661"/>
@@ -1673,11 +1657,12 @@
   <nd ref="13543838659"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555733" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555733" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838663"/>
   <nd ref="13543838664"/>
   <nd ref="13543838665"/>
@@ -1685,11 +1670,12 @@
   <nd ref="13543838663"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555734" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555734" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838667"/>
   <nd ref="13543838668"/>
   <nd ref="13543838669"/>
@@ -1697,11 +1683,12 @@
   <nd ref="13543838667"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555735" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555735" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838671"/>
   <nd ref="13543838672"/>
   <nd ref="13543838673"/>
@@ -1709,11 +1696,12 @@
   <nd ref="13543838671"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555736" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555736" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838675"/>
   <nd ref="13543838676"/>
   <nd ref="13543838677"/>
@@ -1721,11 +1709,12 @@
   <nd ref="13543838675"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555737" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555737" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838679"/>
   <nd ref="13543838680"/>
   <nd ref="13543838681"/>
@@ -1733,11 +1722,12 @@
   <nd ref="13543838679"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555738" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555738" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838683"/>
   <nd ref="13543838684"/>
   <nd ref="13543838685"/>
@@ -1745,12 +1735,12 @@
   <nd ref="13543838683"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
-  <tag k="bath:open_air" v="no"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555739" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555739" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838687"/>
   <nd ref="13543838688"/>
   <nd ref="13543838689"/>
@@ -1758,11 +1748,12 @@
   <nd ref="13543838687"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555740" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555740" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838691"/>
   <nd ref="13543838692"/>
   <nd ref="13543838693"/>
@@ -1770,11 +1761,12 @@
   <nd ref="13543838691"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555741" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555741" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838695"/>
   <nd ref="13543838696"/>
   <nd ref="13543838697"/>
@@ -1782,11 +1774,12 @@
   <nd ref="13543838695"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="СНТ Астра"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555742" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555742" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838699"/>
   <nd ref="13543838700"/>
   <nd ref="13543838701"/>
@@ -1794,11 +1787,12 @@
   <nd ref="13543838699"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555743" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555743" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838703"/>
   <nd ref="13543838704"/>
   <nd ref="13543838705"/>
@@ -1806,11 +1800,12 @@
   <nd ref="13543838703"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555744" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555744" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838707"/>
   <nd ref="13543838708"/>
   <nd ref="13543838709"/>
@@ -1818,11 +1813,12 @@
   <nd ref="13543838707"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555745" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555745" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838711"/>
   <nd ref="13543838712"/>
   <nd ref="13543838713"/>
@@ -1830,11 +1826,12 @@
   <nd ref="13543838711"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555746" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555746" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838715"/>
   <nd ref="13543838716"/>
   <nd ref="13543838717"/>
@@ -1842,11 +1839,12 @@
   <nd ref="13543838715"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="2А"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476555747" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555747" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838719"/>
   <nd ref="13543838742"/>
   <nd ref="13543838741"/>
@@ -1860,11 +1858,12 @@
   <nd ref="13543838719"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="2Б"/>
+  <tag k="addr:place" v="СДТ Полигон"/>
   <tag k="addr:street" v="10-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476555748" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555748" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838725"/>
   <nd ref="13543838726"/>
   <nd ref="13543838727"/>
@@ -1872,11 +1871,12 @@
   <nd ref="13543838725"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555749" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555749" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838729"/>
   <nd ref="13543838730"/>
   <nd ref="13543838731"/>
@@ -1884,11 +1884,12 @@
   <nd ref="13543838729"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555750" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555750" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838733"/>
   <nd ref="13543838734"/>
   <nd ref="13543838735"/>
@@ -1896,11 +1897,12 @@
   <nd ref="13543838733"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476555751" visible="true" version="1" changeset="178415935" timestamp="2026-02-11T16:58:25Z" user="Tomashaytis" uid="23788005">
+ <way id="1476555751" visible="true" version="2" changeset="178685692" timestamp="2026-02-17T15:38:07Z" user="Tomashaytis" uid="23788005">
   <nd ref="13543838737"/>
   <nd ref="13543838738"/>
   <nd ref="13543838739"/>
@@ -1908,6 +1910,7 @@
   <nd ref="13543838737"/>
   <tag k="addr:city" v="Усть-Кинельский"/>
   <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:place" v="СДТ Завода им. Фрунзе"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
