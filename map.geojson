@@ -1,0 +1,621 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/1479380721",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "48",
+                "addr:street": "Deamwood Road",
+                "building": "house",
+                "building:levels": "233",
+                "id": "way/1479380721"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2763963,
+                            51.1363271
+                        ],
+                        [
+                            1.2764651,
+                            51.1362865
+                        ],
+                        [
+                            1.2764321,
+                            51.1362645
+                        ],
+                        [
+                            1.2765177,
+                            51.1362146
+                        ],
+                        [
+                            1.2765634,
+                            51.136243
+                        ],
+                        [
+                            1.2765771,
+                            51.1362346
+                        ],
+                        [
+                            1.2765984,
+                            51.1362465
+                        ],
+                        [
+                            1.2765824,
+                            51.1362547
+                        ],
+                        [
+                            1.2766305,
+                            51.136281
+                        ],
+                        [
+                            1.2764672,
+                            51.1363744
+                        ],
+                        [
+                            1.2763963,
+                            51.1363271
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380722",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "46",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1479380722"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2766548,
+                            51.1363084
+                        ],
+                        [
+                            1.2767553,
+                            51.1363706
+                        ],
+                        [
+                            1.276646,
+                            51.1364341
+                        ],
+                        [
+                            1.2765465,
+                            51.1363715
+                        ],
+                        [
+                            1.2766548,
+                            51.1363084
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380723",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "44",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1479380723"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2768463,
+                            51.1363471
+                        ],
+                        [
+                            1.276893,
+                            51.136372
+                        ],
+                        [
+                            1.2768381,
+                            51.1364042
+                        ],
+                        [
+                            1.2768657,
+                            51.1364188
+                        ],
+                        [
+                            1.2767592,
+                            51.136481
+                        ],
+                        [
+                            1.276693,
+                            51.1364424
+                        ],
+                        [
+                            1.2768463,
+                            51.1363471
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380724",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "42",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1479380724"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2770264,
+                            51.136515
+                        ],
+                        [
+                            1.2768604,
+                            51.1366067
+                        ],
+                        [
+                            1.2767581,
+                            51.1365341
+                        ],
+                        [
+                            1.2768114,
+                            51.1365032
+                        ],
+                        [
+                            1.2767914,
+                            51.1364921
+                        ],
+                        [
+                            1.2768533,
+                            51.136462
+                        ],
+                        [
+                            1.2768693,
+                            51.1364732
+                        ],
+                        [
+                            1.2769185,
+                            51.1364493
+                        ],
+                        [
+                            1.2770264,
+                            51.136515
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380725",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "40",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1479380725"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2770189,
+                            51.1366224
+                        ],
+                        [
+                            1.2769465,
+                            51.1365746
+                        ],
+                        [
+                            1.2770815,
+                            51.1365049
+                        ],
+                        [
+                            1.2771534,
+                            51.1365506
+                        ],
+                        [
+                            1.2770189,
+                            51.1366224
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380726",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "38",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1479380726"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.277168,
+                            51.1367156
+                        ],
+                        [
+                            1.2770606,
+                            51.136635
+                        ],
+                        [
+                            1.2771684,
+                            51.1365829
+                        ],
+                        [
+                            1.2772025,
+                            51.1366057
+                        ],
+                        [
+                            1.2771768,
+                            51.1366171
+                        ],
+                        [
+                            1.2772562,
+                            51.1366728
+                        ],
+                        [
+                            1.277168,
+                            51.1367156
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380727",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "33",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1479380727"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2777276,
+                            51.1365579
+                        ],
+                        [
+                            1.2778328,
+                            51.1365159
+                        ],
+                        [
+                            1.2779583,
+                            51.1366131
+                        ],
+                        [
+                            1.2779107,
+                            51.1366333
+                        ],
+                        [
+                            1.2779312,
+                            51.1366473
+                        ],
+                        [
+                            1.2778488,
+                            51.1366815
+                        ],
+                        [
+                            1.277748,
+                            51.1366068
+                        ],
+                        [
+                            1.2777791,
+                            51.1365956
+                        ],
+                        [
+                            1.2777276,
+                            51.1365579
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380728",
+            "properties": {
+                "timestamp": "2026-02-16T19:27:27Z",
+                "version": "1",
+                "changeset": "178645588",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "35",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1479380728"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2777137,
+                            51.1365333
+                        ],
+                        [
+                            1.2776611,
+                            51.1364906
+                        ],
+                        [
+                            1.2776294,
+                            51.1365047
+                        ],
+                        [
+                            1.2775876,
+                            51.1364754
+                        ],
+                        [
+                            1.2776273,
+                            51.1364576
+                        ],
+                        [
+                            1.2775924,
+                            51.1364327
+                        ],
+                        [
+                            1.2777571,
+                            51.136357
+                        ],
+                        [
+                            1.2778378,
+                            51.1364176
+                        ],
+                        [
+                            1.2777755,
+                            51.1364477
+                        ],
+                        [
+                            1.2778226,
+                            51.1364809
+                        ],
+                        [
+                            1.2777137,
+                            51.1365333
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380729",
+            "properties": {
+                "timestamp": "2026-02-18T06:31:53Z",
+                "version": "2",
+                "changeset": "178709886",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "37",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1479380729"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2774345,
+                            51.1363662
+                        ],
+                        [
+                            1.2775318,
+                            51.1363207
+                        ],
+                        [
+                            1.2776463,
+                            51.1364014
+                        ],
+                        [
+                            1.2775494,
+                            51.1364467
+                        ],
+                        [
+                            1.2774345,
+                            51.1363662
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479380730",
+            "properties": {
+                "timestamp": "2026-02-18T06:31:53Z",
+                "version": "2",
+                "changeset": "178709886",
+                "user": "ONE SHOT HOT POT HELICOPTER TOPPED POT",
+                "uid": "23833512",
+                "addr:city": "Dover",
+                "addr:housenumber": "39",
+                "addr:street": "Deanwood Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1479380730"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.2772703,
+                            51.1363058
+                        ],
+                        [
+                            1.2773487,
+                            51.1362599
+                        ],
+                        [
+                            1.2774531,
+                            51.1363172
+                        ],
+                        [
+                            1.2773709,
+                            51.13636
+                        ],
+                        [
+                            1.2772703,
+                            51.1363058
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/55263196",
+            "properties": {
+                "timestamp": "2012-06-14T08:18:46Z",
+                "version": "2",
+                "changeset": "11892420",
+                "user": "Gregory Williams",
+                "uid": "7037",
+                "highway": "residential",
+                "maxspeed": "30 mph",
+                "name": "Deanwood Road",
+                "id": "way/55263196"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2755003,
+                        51.1353622
+                    ],
+                    [
+                        1.2760949,
+                        51.1358202
+                    ],
+                    [
+                        1.277044,
+                        51.1363223
+                    ],
+                    [
+                        1.2776601,
+                        51.1367088
+                    ],
+                    [
+                        1.2784031,
+                        51.1373418
+                    ],
+                    [
+                        1.2790735,
+                        51.1378837
+                    ],
+                    [
+                        1.2793453,
+                        51.1381111
+                    ],
+                    [
+                        1.2795961,
+                        51.1382442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/55263201",
+            "properties": {
+                "timestamp": "2012-06-14T08:18:46Z",
+                "version": "2",
+                "changeset": "11892420",
+                "user": "Gregory Williams",
+                "uid": "7037",
+                "highway": "residential",
+                "maxspeed": "30 mph",
+                "name": "Deanwood Road",
+                "id": "way/55263201"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.277044,
+                        51.1363223
+                    ],
+                    [
+                        1.2775093,
+                        51.1359708
+                    ]
+                ]
+            }
+        }
+    ]
+}
