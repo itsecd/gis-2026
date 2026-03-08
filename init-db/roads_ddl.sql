@@ -1,3 +1,5 @@
+CREATE EXTENSION IF NOT EXISTS postgis;
+
 CREATE TABLE public.roads (
     ogc_fid integer,
     "timestamp" timestamp with time zone,
