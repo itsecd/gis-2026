@@ -3,9 +3,16 @@
 }
 
 #root {
-  width: 100%;
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    padding-top: 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
