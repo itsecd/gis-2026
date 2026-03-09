@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (1640657 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
- <bounds minlat="53.5915970" minlon="49.2956700" maxlat="53.5929790" maxlon="49.2971030"/>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2001962 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.5915100" minlon="49.2955700" maxlat="53.5932200" maxlon="49.2972600"/>
+ <node id="3138112095" visible="true" version="3" changeset="178969445" timestamp="2026-02-24T03:58:23Z" user="ajmat" uid="20051395" lat="53.5931469" lon="49.2763173"/>
+ <node id="3138112096" visible="true" version="1" changeset="26188649" timestamp="2014-10-19T09:25:22Z" user="massterr" uid="2059021" lat="53.5929926" lon="49.2779646"/>
+ <node id="3138112097" visible="true" version="1" changeset="26188649" timestamp="2014-10-19T09:25:22Z" user="massterr" uid="2059021" lat="53.5927673" lon="49.2804558"/>
+ <node id="3138112098" visible="true" version="1" changeset="26188649" timestamp="2014-10-19T09:25:22Z" user="massterr" uid="2059021" lat="53.5924857" lon="49.2838328"/>
+ <node id="3138112099" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5922077" lon="49.2872316"/>
+ <node id="3138112100" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5919282" lon="49.2905880"/>
+ <node id="3138112101" visible="true" version="1" changeset="26188649" timestamp="2014-10-19T09:25:22Z" user="massterr" uid="2059021" lat="53.5916736" lon="49.2938530"/>
+ <node id="3138112102" visible="true" version="1" changeset="26188649" timestamp="2014-10-19T09:25:22Z" user="massterr" uid="2059021" lat="53.5912840" lon="49.2980525"/>
+ <node id="3138112103" visible="true" version="2" changeset="84437025" timestamp="2020-04-30T20:16:50Z" user="Kosolap" uid="406208" lat="53.5911414" lon="49.2980231"/>
+ <node id="3138113452" visible="true" version="1" changeset="26188649" timestamp="2014-10-19T09:25:23Z" user="massterr" uid="2059021" lat="53.5991723" lon="49.2977794"/>
+ <node id="3138172472" visible="true" version="2" changeset="178314037" timestamp="2026-02-09T14:07:55Z" user="dmgorsh" uid="23805865" lat="53.5930665" lon="49.2771184"/>
+ <node id="3138172475" visible="true" version="2" changeset="178488790" timestamp="2026-02-13T06:56:01Z" user="alexprib" uid="23813439" lat="53.5929185" lon="49.2787967"/>
+ <node id="3138172477" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:06Z" user="massterr" uid="2059021" lat="53.5928449" lon="49.2795974"/>
+ <node id="3138172479" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:06Z" user="massterr" uid="2059021" lat="53.5926972" lon="49.2812961"/>
+ <node id="3138172480" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:06Z" user="massterr" uid="2059021" lat="53.5926267" lon="49.2821420"/>
+ <node id="3138172482" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:06Z" user="massterr" uid="2059021" lat="53.5925563" lon="49.2829859"/>
+ <node id="3138172483" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:06Z" user="massterr" uid="2059021" lat="53.5924183" lon="49.2846472"/>
+ <node id="3138172484" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:06Z" user="massterr" uid="2059021" lat="53.5923518" lon="49.2854554"/>
+ <node id="3138172488" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5922819" lon="49.2863722"/>
+ <node id="3138172491" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5921341" lon="49.2880944"/>
+ <node id="3138172492" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5920648" lon="49.2889337"/>
+ <node id="3138172495" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5919962" lon="49.2897676"/>
+ <node id="3138172498" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:07Z" user="massterr" uid="2059021" lat="53.5918715" lon="49.2913412"/>
+ <node id="3138172499" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:07Z" user="massterr" uid="2059021" lat="53.5918075" lon="49.2921536"/>
+ <node id="3138172502" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:07Z" user="massterr" uid="2059021" lat="53.5917383" lon="49.2930322"/>
+ <node id="3138172505" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:07Z" user="massterr" uid="2059021" lat="53.5915946" lon="49.2947041"/>
+ <node id="3138172506" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5915518" lon="49.2956388"/>
+ <node id="3138172507" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5914709" lon="49.2964800"/>
+ <node id="3138172508" visible="true" version="2" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5913962" lon="49.2971897"/>
  <node id="13589356617" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5917526" lon="49.2966205"/>
  <node id="13589356618" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5918528" lon="49.2966534"/>
  <node id="13589356619" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5918408" lon="49.2967576"/>
@@ -101,7 +130,45 @@
  <node id="13589375814" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5928996" lon="49.2961512"/>
  <node id="13589375815" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5928940" lon="49.2962386"/>
  <node id="13589375816" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618" lat="53.5929512" lon="49.2962442"/>
- <way id="1481723824" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <node id="13594406275" visible="true" version="1" changeset="178969445" timestamp="2026-02-24T03:58:23Z" user="ajmat" uid="20051395" lat="53.5931352" lon="49.2763759"/>
+ <way id="308542628" visible="true" version="4" changeset="178969445" timestamp="2026-02-24T03:58:23Z" user="ajmat" uid="20051395">
+  <nd ref="3138112095"/>
+  <nd ref="13594406275"/>
+  <nd ref="3138172472"/>
+  <nd ref="3138112096"/>
+  <nd ref="3138172475"/>
+  <nd ref="3138172477"/>
+  <nd ref="3138112097"/>
+  <nd ref="3138172479"/>
+  <nd ref="3138172480"/>
+  <nd ref="3138172482"/>
+  <nd ref="3138112098"/>
+  <nd ref="3138172483"/>
+  <nd ref="3138172484"/>
+  <nd ref="3138172488"/>
+  <nd ref="3138112099"/>
+  <nd ref="3138172491"/>
+  <nd ref="3138172492"/>
+  <nd ref="3138172495"/>
+  <nd ref="3138112100"/>
+  <nd ref="3138172498"/>
+  <nd ref="3138172499"/>
+  <nd ref="3138172502"/>
+  <nd ref="3138112101"/>
+  <nd ref="3138172505"/>
+  <nd ref="3138172506"/>
+  <nd ref="3138172507"/>
+  <nd ref="3138172508"/>
+  <nd ref="3138112102"/>
+  <nd ref="3138112103"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="308549406" visible="true" version="1" changeset="26189624" timestamp="2014-10-19T10:27:09Z" user="massterr" uid="2059021">
+  <nd ref="3138172506"/>
+  <nd ref="3138113452"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1481723824" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356617"/>
   <nd ref="13589356618"/>
   <nd ref="13589356619"/>
@@ -111,11 +178,12 @@
   <nd ref="13589356617"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2282"/>
-  <tag k="addr:street" v="25-я улица, СНТ Сборщик"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481723825" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723825" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356623"/>
   <nd ref="13589356624"/>
   <nd ref="13589356625"/>
@@ -125,11 +193,12 @@
   <nd ref="13589356623"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2201"/>
-  <tag k="addr:place" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723826" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723826" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356629"/>
   <nd ref="13589356630"/>
   <nd ref="13589356631"/>
@@ -137,11 +206,12 @@
   <nd ref="13589356629"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2202"/>
-  <tag k="addr:place" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723827" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723827" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356633"/>
   <nd ref="13589356634"/>
   <nd ref="13589356635"/>
@@ -152,11 +222,12 @@
   <nd ref="13589356633"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2203"/>
-  <tag k="addr:place" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723828" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723828" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356640"/>
   <nd ref="13589356641"/>
   <nd ref="13589356642"/>
@@ -165,32 +236,35 @@
   <nd ref="13589356645"/>
   <nd ref="13589356640"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481723829" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723829" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356646"/>
   <nd ref="13589356647"/>
   <nd ref="13589356648"/>
   <nd ref="13589356649"/>
   <nd ref="13589356646"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
  </way>
- <way id="1481723830" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723830" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356650"/>
   <nd ref="13589356651"/>
   <nd ref="13589356652"/>
   <nd ref="13589356653"/>
   <nd ref="13589356650"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723831" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723831" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356654"/>
   <nd ref="13589356655"/>
   <nd ref="13589356656"/>
@@ -198,11 +272,12 @@
   <nd ref="13589356654"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2205"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723832" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723832" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356658"/>
   <nd ref="13589356659"/>
   <nd ref="13589356660"/>
@@ -210,11 +285,12 @@
   <nd ref="13589356658"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2279"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723833" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723833" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356662"/>
   <nd ref="13589356663"/>
   <nd ref="13589356664"/>
@@ -223,11 +299,12 @@
   <nd ref="13589356662"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2196А"/>
-  <tag k="addr:street" v="24-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="24-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723834" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723834" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356667"/>
   <nd ref="13589356668"/>
   <nd ref="13589356669"/>
@@ -235,21 +312,23 @@
   <nd ref="13589356667"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="4"/>
-  <tag k="addr:street" v="24-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="24-я улица"/>
   <tag k="building" v="house"/>
  </way>
- <way id="1481723835" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723835" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356671"/>
   <nd ref="13589356672"/>
   <nd ref="13589356673"/>
   <nd ref="13589356674"/>
   <nd ref="13589356671"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="24-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="24-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481723836" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723836" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356675"/>
   <nd ref="13589356676"/>
   <nd ref="13589356677"/>
@@ -259,11 +338,12 @@
   <nd ref="13589356681"/>
   <nd ref="13589356675"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="24-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="24-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723837" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723837" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356682"/>
   <nd ref="13589356683"/>
   <nd ref="13589356684"/>
@@ -271,11 +351,12 @@
   <nd ref="13589356682"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2192"/>
-  <tag k="addr:street" v="24-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="24-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723838" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723838" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356686"/>
   <nd ref="13589356687"/>
   <nd ref="13589356688"/>
@@ -283,11 +364,12 @@
   <nd ref="13589356686"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2206"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723839" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723839" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356690"/>
   <nd ref="13589356691"/>
   <nd ref="13589356692"/>
@@ -295,10 +377,11 @@
   <nd ref="13589356690"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="15"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
  </way>
- <way id="1481723840" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723840" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356694"/>
   <nd ref="13589356695"/>
   <nd ref="13589356696"/>
@@ -307,11 +390,12 @@
   <nd ref="13589356694"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2276"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723841" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723841" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589356699"/>
   <nd ref="13589356700"/>
   <nd ref="13589375801"/>
@@ -321,11 +405,12 @@
   <nd ref="13589356699"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
   <tag k="addr:housenumber" v="2277"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723842" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723842" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589375805"/>
   <nd ref="13589375806"/>
   <nd ref="13589375807"/>
@@ -336,18 +421,20 @@
   <nd ref="13589375812"/>
   <nd ref="13589375805"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="25-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="25-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1481723843" visible="true" version="1" changeset="178893717" timestamp="2026-02-22T11:00:33Z" user="Andrei Paniushkin" uid="23840618">
+ <way id="1481723843" visible="true" version="2" changeset="179574291" timestamp="2026-03-09T10:17:42Z" user="Andrei Paniushkin" uid="23840618">
   <nd ref="13589375813"/>
   <nd ref="13589375814"/>
   <nd ref="13589375815"/>
   <nd ref="13589375816"/>
   <nd ref="13589375813"/>
   <tag k="addr:city" v="сельское поселение Тимофеевка"/>
-  <tag k="addr:street" v="24-я улица, СНТ «Берёзка»"/>
+  <tag k="addr:place" v="СНТ Сборщик"/>
+  <tag k="addr:street" v="24-я улица"/>
   <tag k="building" v="yes"/>
   <tag k="building:levels" v="2"/>
  </way>
