@@ -7,6 +7,9 @@ import TileLayer from 'ol/layer/Tile';
 import OSM from 'ol/source/OSM';
 import ImageLayer from 'ol/layer/Image';
 import ImageWMS from 'ol/source/ImageWMS';
+import { fromLonLat } from 'ol/proj';
+
+const pointCenter = fromLonLat([ 109.220, 13.768]);
 
 const map = new Map({
   target: 'map',
@@ -38,7 +41,7 @@ const map = new Map({
     })
   ],
   view: new View({
-    center: [0, 0],
-    zoom: 2
+    center: pointCenter,
+    zoom: 18
   })
 });
