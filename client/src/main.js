@@ -1,5 +1,6 @@
 import 'ol/ol.css';
 import './style.css';
+import { fromLonLat } from 'ol/proj';
 import Map from 'ol/Map';
 import View from 'ol/View';
 import TileLayer from 'ol/layer/Tile';
@@ -7,20 +8,11 @@ import OSM from 'ol/source/OSM';
 import ImageLayer from 'ol/layer/Image';
 import ImageWMS from 'ol/source/ImageWMS';
 
-const map = new Map({
-  target: 'map',
-  layers: [
-    new TileLayer({
-      source: new OSM()
-    })
-  ],
-  view: new View({
-    center: [0, 0],
-    zoom: 2
-  })
+const osmLayer = new TileLayer({
+  source: new OSM()
 });
 
-const wmsLayer = new ImageLayer({
+const buildingsLayer = new ImageLayer({
   source: new ImageWMS({
     url: 'http://localhost:8080/geoserver/gis/wms',
     params: {
@@ -31,8 +23,6 @@ const wmsLayer = new ImageLayer({
     serverType: 'geoserver'
   })
 });
-
-map.addLayer(wmsLayer);
 
 const roadsLayer = new ImageLayer({
   source: new ImageWMS({
@@ -46,4 +36,15 @@ const roadsLayer = new ImageLayer({
   })
 });
 
-map.addLayer(roadsLayer);
+const map = new Map({
+  target: 'map',
+  layers: [
+    osmLayer,
+    buildingsLayer,
+    roadsLayer
+  ],
+  view: new View({
+    center: fromLonLat([1.2775482, 51.1368032]),
+    zoom: 17
+  })
+});
