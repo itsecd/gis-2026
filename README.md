@@ -14,6 +14,6 @@
 - развернуты PostGIS и GeoServer с использованием `docker-compose`;
 - выполнена загрузка данных из `map_new.geojson` в базу данных;
 - опубликованы слои в GeoServer:
-  ![Карта](screenshots\geoserver.png)
+  ![Карта](screenshots/geoserver.png)
 - разработан веб-клиент:
-  ![Клиент](screenshots\client.png)
+  ![Клиент](screenshots/client.png)
