@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-7915f2bc:19cf7cb22a8:-7fec</id>
+  <name>poi</name>
+  <nativeName>poi</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-7915f2bc:19cf7cb22a8:-7ff5</id>
+  </namespace>
+  <title>poi</title>
+  <keywords>
+    <string>features</string>
+    <string>poi</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>50.63587951660156</minx>
+    <maxx>50.63588333129883</maxx>
+    <miny>53.19865417480469</miny>
+    <maxy>53.19865798950195</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>50.63587951660156</minx>
+    <maxx>50.63588333129883</maxx>
+    <miny>53.19865417480469</miny>
+    <maxy>53.19865798950195</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-7915f2bc:19cf7cb22a8:-7ff4</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
