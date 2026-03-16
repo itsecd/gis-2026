@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Геопортал | Лабораторная работа №2</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="header">
+        <div class="header-content">
+          <h1 class="header-title">Геопортал на базе GeoServer</h1>
+          <p class="header-subtitle">
+            Лабораторная работа №2 | PostGIS + GeoServer + OpenLayers
+          </p>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="map-container">
+          <div id="map" class="map"></div>
+        </div>
+
+        <div class="layer-panel">
+          <h3 class="panel-title">Управление слоями</h3>
+          <div class="layer-list">
+            <label class="layer-item">
+              <input type="checkbox" id="toggle-osm" checked />
+              <span class="layer-name">
+                <span class="color-dot osm-dot"></span>
+                OpenStreetMap
+              </span>
+              <span class="layer-badge">подложка</span>
+            </label>
+            <label class="layer-item">
+              <input type="checkbox" id="toggle-roads" checked />
+              <span class="layer-name">
+                <span class="color-dot roads-dot"></span>
+                Дороги
+              </span>
+              <span class="layer-badge">линейные</span>
+            </label>
+            <label class="layer-item">
+              <input type="checkbox" id="toggle-buildings" checked />
+              <span class="layer-name">
+                <span class="color-dot buildings-dot"></span>
+                Здания
+              </span>
+              <span class="layer-badge">полигоны</span>
+            </label>
+            <label class="layer-item">
+              <input type="checkbox" id="toggle-poi" />
+              <span class="layer-name">
+                <span class="color-dot poi-dot"></span>
+                POI
+              </span>
+              <span class="layer-badge">точки</span>
+            </label>
+          </div>
+          <div class="panel-footer">
+            <p class="coordinates-info">Координаты: ≈ 106.38°E, 52.79°N</p>
+            <p class="data-info">Данные загружены: {{DATE}}</p>
+          </div>
+        </div>
+      </main>
+
+      <footer class="footer">
+        <div class="footer-content">
+          <p>PostGIS • GeoServer • OpenLayers • Vite</p>
+        </div>
+      </footer>
+    </div>
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
