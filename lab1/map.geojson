@@ -1,0 +1,568 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/1481723843",
+            "properties": {
+                "timestamp": "2026-03-17T12:20:31Z",
+                "version": "4",
+                "changeset": "180004711",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
+                "building": "yes",
+                "building:levels": "2",
+                "id": "way/1481723843"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2961603,
+                            53.5929578
+                        ],
+                        [
+                            49.2961512,
+                            53.5928996
+                        ],
+                        [
+                            49.2962386,
+                            53.592894
+                        ],
+                        [
+                            49.2962442,
+                            53.5929512
+                        ],
+                        [
+                            49.2961603,
+                            53.5929578
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680621",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2105",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "yes",
+                "building:levels": "2",
+                "id": "way/1489680621"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2952393,
+                            53.5928923
+                        ],
+                        [
+                            49.2952234,
+                            53.592836
+                        ],
+                        [
+                            49.2953695,
+                            53.5928214
+                        ],
+                        [
+                            49.2953854,
+                            53.5928777
+                        ],
+                        [
+                            49.2952393,
+                            53.5928923
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680622",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "16",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680622"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2952823,
+                            53.5930491
+                        ],
+                        [
+                            49.295273,
+                            53.5930001
+                        ],
+                        [
+                            49.2952384,
+                            53.5930024
+                        ],
+                        [
+                            49.2952313,
+                            53.5929649
+                        ],
+                        [
+                            49.295313,
+                            53.5929594
+                        ],
+                        [
+                            49.295318,
+                            53.5929861
+                        ],
+                        [
+                            49.2954185,
+                            53.5929794
+                        ],
+                        [
+                            49.2954299,
+                            53.5930392
+                        ],
+                        [
+                            49.2952823,
+                            53.5930491
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680623",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "18",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "yes",
+                "building:levels": "2",
+                "id": "way/1489680623"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2953365,
+                            53.5932273
+                        ],
+                        [
+                            49.2953304,
+                            53.5931801
+                        ],
+                        [
+                            49.295432,
+                            53.5931755
+                        ],
+                        [
+                            49.295438,
+                            53.5932227
+                        ],
+                        [
+                            49.2953365,
+                            53.5932273
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680624",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2122",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680624"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2959131,
+                            53.5932043
+                        ],
+                        [
+                            49.2958717,
+                            53.5930777
+                        ],
+                        [
+                            49.2960418,
+                            53.5930581
+                        ],
+                        [
+                            49.2960832,
+                            53.5931847
+                        ],
+                        [
+                            49.2959131,
+                            53.5932043
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680625",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2123",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680625"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2959764,
+                            53.5933488
+                        ],
+                        [
+                            49.2959686,
+                            53.5933087
+                        ],
+                        [
+                            49.2960653,
+                            53.593302
+                        ],
+                        [
+                            49.2960732,
+                            53.5933421
+                        ],
+                        [
+                            49.2959764,
+                            53.5933488
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680626",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2188",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680626"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.296255,
+                            53.5933299
+                        ],
+                        [
+                            49.2962526,
+                            53.5933151
+                        ],
+                        [
+                            49.2962315,
+                            53.5933163
+                        ],
+                        [
+                            49.2962245,
+                            53.5932721
+                        ],
+                        [
+                            49.2963155,
+                            53.593267
+                        ],
+                        [
+                            49.296325,
+                            53.593326
+                        ],
+                        [
+                            49.296255,
+                            53.5933299
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680628",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "28",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680628"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2956097,
+                            53.5941138
+                        ],
+                        [
+                            49.2956002,
+                            53.5940678
+                        ],
+                        [
+                            49.2956914,
+                            53.5940612
+                        ],
+                        [
+                            49.2957009,
+                            53.5941072
+                        ],
+                        [
+                            49.2956097,
+                            53.5941138
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680629",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "3",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2039",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680629"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2953515,
+                            53.5941425
+                        ],
+                        [
+                            49.2953394,
+                            53.5940776
+                        ],
+                        [
+                            49.295447,
+                            53.5940706
+                        ],
+                        [
+                            49.2954591,
+                            53.5941355
+                        ],
+                        [
+                            49.2953515,
+                            53.5941425
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680630",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "3",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "23",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680630"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2952904,
+                            53.5939733
+                        ],
+                        [
+                            49.2952586,
+                            53.5938913
+                        ],
+                        [
+                            49.295376,
+                            53.5938752
+                        ],
+                        [
+                            49.2954079,
+                            53.5939572
+                        ],
+                        [
+                            49.2952904,
+                            53.5939733
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489680631",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "2",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2040",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489680631"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2953903,
+                            53.5943219
+                        ],
+                        [
+                            49.2953767,
+                            53.5942426
+                        ],
+                        [
+                            49.2954978,
+                            53.5942353
+                        ],
+                        [
+                            49.2955113,
+                            53.5943146
+                        ],
+                        [
+                            49.2953903,
+                            53.5943219
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1489744563",
+            "properties": {
+                "timestamp": "2026-03-17T12:00:25Z",
+                "version": "1",
+                "changeset": "180003460",
+                "user": "MagGoldi",
+                "uid": "23933724",
+                "addr:district": "Ставропольский район",
+                "addr:housenumber": "2099",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "23-я улица",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1489744563"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.2955702,
+                            53.5939604
+                        ],
+                        [
+                            49.2955464,
+                            53.5938829
+                        ],
+                        [
+                            49.29567,
+                            53.5938695
+                        ],
+                        [
+                            49.2956938,
+                            53.593947
+                        ],
+                        [
+                            49.2955702,
+                            53.5939604
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
