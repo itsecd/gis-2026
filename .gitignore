@@ -16,7 +16,6 @@ geoserver_data/gwc/diskquota_page_store_hsql/*.lck
 geoserver_data/tomcat_pass.txt
 geoserver_data/security/geoserver.jceks
 geoserver_data/security/masterpw.digest
-geoserver_data/security/masterpw/default/passwd
 postgres_data/
 *.sql.backup
 __pycache__/
