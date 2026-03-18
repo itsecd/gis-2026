@@ -8,14 +8,14 @@ yarn-error.log*
 pnpm-debug.log*
 **/package-lock.json
 geoserver_data/logs/
+geoserver_data/legendsamples/
 geoserver_data/**/*.log
 geoserver_data/gwc/*.bak
 geoserver_data/gwc/diskquota_page_store_hsql/*.data
 geoserver_data/gwc/diskquota_page_store_hsql/*.log
 geoserver_data/gwc/diskquota_page_store_hsql/*.lck
 geoserver_data/tomcat_pass.txt
-geoserver_data/security/geoserver.jceks
-geoserver_data/security/masterpw.digest
+geoserver_data/security/masterpw/default/passwd
 postgres_data/
 *.sql.backup
 __pycache__/
