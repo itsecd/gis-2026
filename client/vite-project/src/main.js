@@ -6,19 +6,6 @@ import OSM from 'ol/source/OSM';
 import ImageLayer from 'ol/layer/Image';
 import ImageWMS from 'ol/source/ImageWMS';
 
-const map = new Map({
-  target: 'map',
-  layers: [
-    new TileLayer({
-      source: new OSM()
-    })
-  ],
-  view: new View({
-    center: [5615800, 7031700],
-    zoom: 14
-  })
-});
-
 const buildingsLayer = new ImageLayer({
   source: new ImageWMS({
     url: 'http://localhost:8080/geoserver/gis/wms',
@@ -60,7 +47,18 @@ const poiLayer = new ImageLayer({
   })
 });
 
-// Добавляем все слои на карту
-map.addLayer(buildingsLayer);
-map.addLayer(roadsLayer);
-map.addLayer(poiLayer);
+const map = new Map({
+  target: 'map',
+  layers: [
+    new TileLayer({
+      source: new OSM()
+    }),
+    buildingsLayer,
+    roadsLayer,
+    poiLayer
+  ],
+  view: new View({
+    center: [5615800, 7031700],
+    zoom: 14
+  })
+});
