@@ -1,0 +1,6 @@
+*.log
+geoserver_data/logs/
+
+.DS_Store
+client/node_modules
+client/dist
