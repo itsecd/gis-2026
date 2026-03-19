@@ -1,0 +1,1132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "relation/71448",
+            "properties": {
+                "timestamp": "2025-12-03T15:46:12Z",
+                "version": "398",
+                "changeset": "175452578",
+                "user": "NTTrailsLSE",
+                "uid": "15099213",
+                "distance": "235",
+                "name": "Shakespeare's Way",
+                "network": "rwn",
+                "route": "hiking",
+                "type": "route",
+                "url": "http://www.shakespearesway.org/",
+                "wikidata": "Q7462776",
+                "wikipedia": "en:Shakespeare's Way",
+                "id": "relation/71448"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5455338,
+                        51.9395981
+                    ],
+                    [
+                        -1.5455448,
+                        51.9395206
+                    ],
+                    [
+                        -1.5455362,
+                        51.9394372
+                    ],
+                    [
+                        -1.5454988,
+                        51.9392546
+                    ],
+                    [
+                        -1.5454792,
+                        51.9391274
+                    ],
+                    [
+                        -1.5454247,
+                        51.9389251
+                    ],
+                    [
+                        -1.5453724,
+                        51.938701
+                    ],
+                    [
+                        -1.5452962,
+                        51.938381
+                    ],
+                    [
+                        -1.5452167,
+                        51.9383053
+                    ],
+                    [
+                        -1.5450455,
+                        51.9379316
+                    ],
+                    [
+                        -1.5448045,
+                        51.937431
+                    ],
+                    [
+                        -1.5446918,
+                        51.9372575
+                    ],
+                    [
+                        -1.5446118,
+                        51.9371487
+                    ],
+                    [
+                        -1.544369,
+                        51.9369555
+                    ],
+                    [
+                        -1.5442532,
+                        51.936881
+                    ],
+                    [
+                        -1.5438442,
+                        51.9366181
+                    ],
+                    [
+                        -1.5433416,
+                        51.9362713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "relation/2163048",
+            "properties": {
+                "timestamp": "2025-07-09T12:31:46Z",
+                "version": "46",
+                "changeset": "168693714",
+                "user": "Andrew Chadwick",
+                "uid": "27408",
+                "network": "Oxfordshire",
+                "operator": "Pulhams",
+                "ref": "X9",
+                "route": "bus",
+                "type": "route",
+                "id": "relation/2163048"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5455338,
+                        51.9395981
+                    ],
+                    [
+                        -1.5455448,
+                        51.9395206
+                    ],
+                    [
+                        -1.5455362,
+                        51.9394372
+                    ],
+                    [
+                        -1.5454988,
+                        51.9392546
+                    ],
+                    [
+                        -1.5454792,
+                        51.9391274
+                    ],
+                    [
+                        -1.5454247,
+                        51.9389251
+                    ],
+                    [
+                        -1.5453724,
+                        51.938701
+                    ],
+                    [
+                        -1.5452962,
+                        51.938381
+                    ],
+                    [
+                        -1.5452167,
+                        51.9383053
+                    ],
+                    [
+                        -1.5450455,
+                        51.9379316
+                    ],
+                    [
+                        -1.5448045,
+                        51.937431
+                    ],
+                    [
+                        -1.5446918,
+                        51.9372575
+                    ],
+                    [
+                        -1.5446118,
+                        51.9371487
+                    ],
+                    [
+                        -1.544369,
+                        51.9369555
+                    ],
+                    [
+                        -1.5442532,
+                        51.936881
+                    ],
+                    [
+                        -1.5438442,
+                        51.9366181
+                    ],
+                    [
+                        -1.5433416,
+                        51.9362713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "relation/16770117",
+            "properties": {
+                "timestamp": "2026-02-04T08:49:23Z",
+                "version": "128",
+                "changeset": "178084293",
+                "user": "RyanBush",
+                "uid": "19756269",
+                "description": "The longest three-digit A road in the UK.",
+                "distance": "314",
+                "from": "Ilfracombe",
+                "name": "A361 Road (UK)",
+                "ref": "A361",
+                "route": "road",
+                "to": "Kilsby",
+                "type": "route",
+                "via": "Braunton;Barnstaple;South Molton;Tiverton;Taunton;Street;Glastonbury;Shepton Mallet;Frome;Trowbridge;Devizes;Avebury;Wroughton;Swindon;Stratton St Margaret;Highworth;Lechlade;Burford;Shipton-under-Wychwood;Chipping Norton;Bloxham;Banbury;Byfield;Daventry",
+                "wikidata": "Q15932980",
+                "wikipedia": "en:A361 road",
+                "id": "relation/16770117"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5455338,
+                        51.9395981
+                    ],
+                    [
+                        -1.5455448,
+                        51.9395206
+                    ],
+                    [
+                        -1.5455362,
+                        51.9394372
+                    ],
+                    [
+                        -1.5454988,
+                        51.9392546
+                    ],
+                    [
+                        -1.5454792,
+                        51.9391274
+                    ],
+                    [
+                        -1.5454247,
+                        51.9389251
+                    ],
+                    [
+                        -1.5453724,
+                        51.938701
+                    ],
+                    [
+                        -1.5452962,
+                        51.938381
+                    ],
+                    [
+                        -1.5452167,
+                        51.9383053
+                    ],
+                    [
+                        -1.5450455,
+                        51.9379316
+                    ],
+                    [
+                        -1.5448045,
+                        51.937431
+                    ],
+                    [
+                        -1.5446918,
+                        51.9372575
+                    ],
+                    [
+                        -1.5446118,
+                        51.9371487
+                    ],
+                    [
+                        -1.544369,
+                        51.9369555
+                    ],
+                    [
+                        -1.5442532,
+                        51.936881
+                    ],
+                    [
+                        -1.5438442,
+                        51.9366181
+                    ],
+                    [
+                        -1.5433416,
+                        51.9362713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/115722552",
+            "properties": {
+                "timestamp": "2025-11-20T16:34:35Z",
+                "version": "8",
+                "changeset": "174914484",
+                "user": "confusedbuffalo",
+                "uid": "242345",
+                "addr:city": "Chipping Norton",
+                "addr:postcode": "OX7 5DH",
+                "addr:street": "The Green",
+                "amenity": "school",
+                "capacity": "345",
+                "check_date": "2025-09-01",
+                "denomination": "anglican",
+                "diocese": "Diocese of Oxford",
+                "fhrs:id": "924656",
+                "isced:level": "0;1",
+                "max_age": "11",
+                "min_age": "3",
+                "name": "St Mary's Church of England (Aided) Primary School",
+                "phone": "+44 1608 642673",
+                "ref:edubase": "123227",
+                "ref:GB:uprn": "10003995320",
+                "religion": "christian",
+                "school": "primary",
+                "school:boarding": "no",
+                "school:gender": "mixed",
+                "school:selective": "no",
+                "school:type": "voluntary_aided",
+                "source:addr": "FHRS Open Data",
+                "website": "https://www.st-marys-chipping.oxon.sch.uk/",
+                "wikidata": "Q66227125",
+                "id": "way/115722552"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5483052,
+                            51.9361494
+                        ],
+                        [
+                            -1.5475273,
+                            51.9356665
+                        ],
+                        [
+                            -1.545753,
+                            51.9373814
+                        ],
+                        [
+                            -1.5472129,
+                            51.9378908
+                        ],
+                        [
+                            -1.5474456,
+                            51.9375255
+                        ],
+                        [
+                            -1.5468776,
+                            51.937359
+                        ],
+                        [
+                            -1.5471917,
+                            51.9369316
+                        ],
+                        [
+                            -1.5474883,
+                            51.9366833
+                        ],
+                        [
+                            -1.5483052,
+                            51.9361494
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477873215",
+            "properties": {
+                "timestamp": "2026-02-14T11:00:34Z",
+                "version": "3",
+                "changeset": "178539119",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "11",
+                "addr:postcode": "OX7 5DH",
+                "addr:street": "The Green",
+                "building": "house",
+                "building:levels": "2",
+                "name": "Brasenose Villas",
+                "id": "way/1477873215"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5457198,
+                            51.9375119
+                        ],
+                        [
+                            -1.5456456,
+                            51.9375862
+                        ],
+                        [
+                            -1.54584,
+                            51.9376599
+                        ],
+                        [
+                            -1.5459142,
+                            51.9375856
+                        ],
+                        [
+                            -1.5457198,
+                            51.9375119
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477882638",
+            "properties": {
+                "timestamp": "2026-02-13T20:33:59Z",
+                "version": "1",
+                "changeset": "178520966",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "8",
+                "addr:postcode": "OX7 5DH",
+                "addr:street": "The Green",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1477882638"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.545196,
+                            51.9373172
+                        ],
+                        [
+                            -1.5451065,
+                            51.937359
+                        ],
+                        [
+                            -1.5451677,
+                            51.9374084
+                        ],
+                        [
+                            -1.5452566,
+                            51.9373671
+                        ],
+                        [
+                            -1.545196,
+                            51.9373172
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477882639",
+            "properties": {
+                "timestamp": "2026-02-13T20:33:59Z",
+                "version": "1",
+                "changeset": "178520966",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "10",
+                "addr:postcode": "OX7 5DH",
+                "addr:street": "The Green",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1477882639"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5454674,
+                            51.9374339
+                        ],
+                        [
+                            -1.5454178,
+                            51.9374825
+                        ],
+                        [
+                            -1.5455176,
+                            51.9375212
+                        ],
+                        [
+                            -1.5455668,
+                            51.9374716
+                        ],
+                        [
+                            -1.5454674,
+                            51.9374339
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477882640",
+            "properties": {
+                "timestamp": "2026-02-13T20:33:59Z",
+                "version": "1",
+                "changeset": "178520966",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "9",
+                "addr:postcode": "OX7 5DH",
+                "addr:street": "The Green",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1477882640"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5455668,
+                            51.9374716
+                        ],
+                        [
+                            -1.5455176,
+                            51.9375212
+                        ],
+                        [
+                            -1.5456198,
+                            51.9375598
+                        ],
+                        [
+                            -1.545669,
+                            51.9375102
+                        ],
+                        [
+                            -1.5455668,
+                            51.9374716
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477882641",
+            "properties": {
+                "timestamp": "2026-02-13T20:33:59Z",
+                "version": "1",
+                "changeset": "178520966",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "61",
+                "addr:postcode": "OX7 5EB",
+                "addr:street": "Burford Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1477882641"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5451065,
+                            51.937359
+                        ],
+                        [
+                            -1.5450158,
+                            51.9374018
+                        ],
+                        [
+                            -1.5450771,
+                            51.9374512
+                        ],
+                        [
+                            -1.5451677,
+                            51.9374084
+                        ],
+                        [
+                            -1.5451065,
+                            51.937359
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477882642",
+            "properties": {
+                "timestamp": "2026-02-13T20:33:59Z",
+                "version": "1",
+                "changeset": "178520966",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "59",
+                "addr:postcode": "OX7 5EB",
+                "addr:street": "Burford Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1477882642"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5451867,
+                            51.9375632
+                        ],
+                        [
+                            -1.545097,
+                            51.9375816
+                        ],
+                        [
+                            -1.5451351,
+                            51.9376524
+                        ],
+                        [
+                            -1.5452248,
+                            51.9376342
+                        ],
+                        [
+                            -1.5451867,
+                            51.9375632
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1477882643",
+            "properties": {
+                "timestamp": "2026-02-21T21:32:44Z",
+                "version": "2",
+                "changeset": "178877726",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "57",
+                "addr:postcode": "OX7 5EB",
+                "addr:street": "Burford Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1477882643"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5452618,
+                            51.9377036
+                        ],
+                        [
+                            -1.5452248,
+                            51.9376342
+                        ],
+                        [
+                            -1.5451351,
+                            51.9376524
+                        ],
+                        [
+                            -1.5451721,
+                            51.9377218
+                        ],
+                        [
+                            -1.5452618,
+                            51.9377036
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1478524519",
+            "properties": {
+                "timestamp": "2026-02-14T10:48:39Z",
+                "version": "1",
+                "changeset": "178538675",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:postcode": "OX7 5EB",
+                "addr:street": "Burford Road",
+                "building": "yes",
+                "building:levels": "3",
+                "id": "way/1478524519"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5455886,
+                            51.9380793
+                        ],
+                        [
+                            -1.5453458,
+                            51.9381034
+                        ],
+                        [
+                            -1.5453641,
+                            51.9381735
+                        ],
+                        [
+                            -1.5453925,
+                            51.9381707
+                        ],
+                        [
+                            -1.5454188,
+                            51.9382713
+                        ],
+                        [
+                            -1.5455277,
+                            51.9382605
+                        ],
+                        [
+                            -1.5455006,
+                            51.9381569
+                        ],
+                        [
+                            -1.5456061,
+                            51.9381464
+                        ],
+                        [
+                            -1.5455886,
+                            51.9380793
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1478524520",
+            "properties": {
+                "timestamp": "2026-02-14T10:48:39Z",
+                "version": "1",
+                "changeset": "178538675",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "55",
+                "addr:postcode": "OX7 5EB",
+                "addr:street": "Burford Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1478524520"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5452909,
+                            51.9377199
+                        ],
+                        [
+                            -1.5452035,
+                            51.9377361
+                        ],
+                        [
+                            -1.5452368,
+                            51.9378048
+                        ],
+                        [
+                            -1.5453242,
+                            51.9377887
+                        ],
+                        [
+                            -1.5452909,
+                            51.9377199
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1478524521",
+            "properties": {
+                "timestamp": "2026-02-14T10:48:39Z",
+                "version": "1",
+                "changeset": "178538675",
+                "user": "acebiscuits",
+                "uid": "23824053",
+                "addr:city": "Chipping Norton",
+                "addr:housenumber": "53",
+                "addr:postcode": "OX7 5EB",
+                "addr:street": "Burford Road",
+                "building": "house",
+                "building:levels": "2",
+                "id": "way/1478524521"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.5452368,
+                            51.9378048
+                        ],
+                        [
+                            -1.5452716,
+                            51.9378766
+                        ],
+                        [
+                            -1.545359,
+                            51.9378606
+                        ],
+                        [
+                            -1.5453242,
+                            51.9377887
+                        ],
+                        [
+                            -1.5452368,
+                            51.9378048
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/136398023",
+            "properties": {
+                "timestamp": "2025-11-23T11:53:44Z",
+                "version": "9",
+                "changeset": "175022476",
+                "user": "Robin Peterson",
+                "uid": "2894151",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "20 mph",
+                "name": "Burford Road",
+                "ref": "A361",
+                "id": "way/136398023"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5455338,
+                        51.9395981
+                    ],
+                    [
+                        -1.5455448,
+                        51.9395206
+                    ],
+                    [
+                        -1.5455362,
+                        51.9394372
+                    ],
+                    [
+                        -1.5454988,
+                        51.9392546
+                    ],
+                    [
+                        -1.5454792,
+                        51.9391274
+                    ],
+                    [
+                        -1.5454247,
+                        51.9389251
+                    ],
+                    [
+                        -1.5453724,
+                        51.938701
+                    ],
+                    [
+                        -1.5452962,
+                        51.938381
+                    ],
+                    [
+                        -1.5452167,
+                        51.9383053
+                    ],
+                    [
+                        -1.5450455,
+                        51.9379316
+                    ],
+                    [
+                        -1.5448045,
+                        51.937431
+                    ],
+                    [
+                        -1.5446918,
+                        51.9372575
+                    ],
+                    [
+                        -1.5446118,
+                        51.9371487
+                    ],
+                    [
+                        -1.544369,
+                        51.9369555
+                    ],
+                    [
+                        -1.5442532,
+                        51.936881
+                    ],
+                    [
+                        -1.5438442,
+                        51.9366181
+                    ],
+                    [
+                        -1.5433416,
+                        51.9362713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/138839159",
+            "properties": {
+                "timestamp": "2021-07-20T15:02:07Z",
+                "version": "6",
+                "changeset": "108325994",
+                "user": "MrMapperBanbury",
+                "uid": "12637824",
+                "highway": "residential",
+                "maxspeed": "30 mph",
+                "name": "The Green",
+                "id": "way/138839159"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5475855,
+                        51.9380637
+                    ],
+                    [
+                        -1.5473783,
+                        51.937994
+                    ],
+                    [
+                        -1.5472627,
+                        51.9379477
+                    ],
+                    [
+                        -1.5471893,
+                        51.937921
+                    ],
+                    [
+                        -1.5464532,
+                        51.9376489
+                    ],
+                    [
+                        -1.5457272,
+                        51.937376
+                    ],
+                    [
+                        -1.5454162,
+                        51.9372635
+                    ],
+                    [
+                        -1.5447503,
+                        51.9370307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/851397468",
+            "properties": {
+                "timestamp": "2020-09-25T06:42:00Z",
+                "version": "1",
+                "changeset": "91486683",
+                "user": "sabodige",
+                "uid": "10170576",
+                "highway": "service",
+                "id": "way/851397468"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5454162,
+                        51.9372635
+                    ],
+                    [
+                        -1.5453581,
+                        51.9374962
+                    ],
+                    [
+                        -1.5453981,
+                        51.9375717
+                    ],
+                    [
+                        -1.5458537,
+                        51.9379824
+                    ],
+                    [
+                        -1.5459096,
+                        51.93803
+                    ],
+                    [
+                        -1.5460722,
+                        51.9380809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/884660426",
+            "properties": {
+                "timestamp": "2020-12-14T09:07:50Z",
+                "version": "1",
+                "changeset": "95796012",
+                "user": "kukarana",
+                "uid": "11734027",
+                "highway": "service",
+                "id": "way/884660426"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5455121,
+                        51.9383542
+                    ],
+                    [
+                        -1.5456538,
+                        51.9382626
+                    ],
+                    [
+                        -1.5457026,
+                        51.93824
+                    ],
+                    [
+                        -1.5457392,
+                        51.9382363
+                    ],
+                    [
+                        -1.545787,
+                        51.9382457
+                    ],
+                    [
+                        -1.5462007,
+                        51.938371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/884660427",
+            "properties": {
+                "timestamp": "2020-12-14T09:07:50Z",
+                "version": "1",
+                "changeset": "95796012",
+                "user": "kukarana",
+                "uid": "11734027",
+                "highway": "service",
+                "id": "way/884660427"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5457392,
+                        51.9382363
+                    ],
+                    [
+                        -1.5457541,
+                        51.9381824
+                    ],
+                    [
+                        -1.5457754,
+                        51.938136
+                    ],
+                    [
+                        -1.5458314,
+                        51.9380708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/25290363",
+            "properties": {
+                "timestamp": "2021-07-20T15:02:07Z",
+                "version": "6",
+                "changeset": "108325994",
+                "user": "MrMapperBanbury",
+                "uid": "12637824",
+                "direction": "clockwise",
+                "highway": "mini_roundabout",
+                "id": "node/25290363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5455338,
+                    51.9395981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/8252496121",
+            "properties": {
+                "timestamp": "2020-12-22T18:05:21Z",
+                "version": "1",
+                "changeset": "96275111",
+                "user": "Robert Whittaker",
+                "uid": "84263",
+                "crossing": "traffic_signals",
+                "highway": "crossing",
+                "id": "node/8252496121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5442532,
+                    51.936881
+                ]
+            }
+        }
+    ]
+}
