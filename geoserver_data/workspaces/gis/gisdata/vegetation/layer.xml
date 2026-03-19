@@ -1,0 +1,16 @@
+<layer>
+  <name>vegetation</name>
+  <id>LayerInfoImpl-6920c9e1:19d06aba6d0:-7fee</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6920c9e1:19d06aba6d0:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-6920c9e1:19d06aba6d0:-7fef</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-03-19 17:24:46.529 UTC</dateCreated>
+</layer>
