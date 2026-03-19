@@ -4,6 +4,7 @@ import Map from 'ol/Map';
 import View from 'ol/View';
 import TileLayer from 'ol/layer/Tile';
 import ImageLayer from 'ol/layer/Image';
+import { fromLonLat } from 'ol/proj';
 
 import OSM from 'ol/source/OSM';
 import ImageWMS from 'ol/source/ImageWMS';
@@ -62,7 +63,7 @@ const map = new Map({
     poiLayer,
   ],
   view: new View({
-    center: [-1.5458234, 51.9376323], // -1.5458234 | 51.9376323
-    zoom: 2,
+    center: fromLonLat([-1.5458234, 51.9376323]), // -1.5458234 | 51.9376323
+    zoom: 17,
   }),
 });
