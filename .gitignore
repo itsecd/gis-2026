@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Vite / build
+dist/
+.vite/
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Docker volumes
+*.db
+*.sqlite
+
+# Temporary files
+tmp/
+*.tmp
