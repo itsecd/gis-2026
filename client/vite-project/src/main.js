@@ -14,7 +14,7 @@ const mapElement = document.getElementById('map');
 mapElement.style.width = '100vw';
 mapElement.style.height = '100vh';
 
-const wmsLayer = new ImageLayer({
+const buildingsLayer = new ImageLayer({
   source: new ImageWMS({
     url: 'http://localhost:8080/geoserver/gis/wms',
     params: {
@@ -27,18 +27,42 @@ const wmsLayer = new ImageLayer({
   }),
 });
 
-const map = new Map({
-  target: 'map',
-  layers: [
-    new TileLayer({
-      source: new OSM(),
-    }),
-    wmsLayer,
-  ],
-  view: new View({
-    center: [0, 0],
-    zoom: 2,
+const roadsLayer = new ImageLayer({
+  source: new ImageWMS({
+    url: 'http://localhost:8080/geoserver/gis/wms',
+    params: {
+      LAYERS: 'gis:roads',
+      FORMAT: 'image/png',
+      TRANSPARENT: true,
+    },
+    ratio: 1,
+    serverType: 'geoserver',
   }),
 });
 
-console.log(map.getLayers().getArray());
+const poiLayer = new ImageLayer({
+  source: new ImageWMS({
+    url: 'http://localhost:8080/geoserver/gis/wms',
+    params: {
+      LAYERS: 'gis:poi',
+      FORMAT: 'image/png',
+      TRANSPARENT: true,
+    },
+    ratio: 1,
+    serverType: 'geoserver',
+  }),
+});
+
+const map = new Map({
+  target: 'map',
+  layers: [
+    new TileLayer({ source: new OSM() }),
+    roadsLayer,
+    buildingsLayer,
+    poiLayer,
+  ],
+  view: new View({
+    center: [-1.5458234, 51.9376323], // -1.5458234 | 51.9376323
+    zoom: 2,
+  }),
+});
