@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3285292 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.1361920" minlon="1.2763800" maxlat="51.1367260" maxlon="1.2780000"/>
+ <node id="694397902" visible="true" version="2" changeset="5213346" timestamp="2010-07-13T23:37:27Z" user="IJMacD" uid="47487" lat="51.1353622" lon="1.2755003"/>
+ <node id="694397904" visible="true" version="2" changeset="5213346" timestamp="2010-07-13T23:37:27Z" user="IJMacD" uid="47487" lat="51.1358202" lon="1.2760949"/>
+ <node id="694397906" visible="true" version="1" changeset="4406344" timestamp="2010-04-12T17:10:22Z" user="IJMacD" uid="47487" lat="51.1363223" lon="1.2770440"/>
+ <node id="694397913" visible="true" version="1" changeset="4406344" timestamp="2010-04-12T17:10:22Z" user="IJMacD" uid="47487" lat="51.1367088" lon="1.2776601"/>
+ <node id="694397915" visible="true" version="2" changeset="5213346" timestamp="2010-07-13T23:37:16Z" user="IJMacD" uid="47487" lat="51.1359708" lon="1.2775093"/>
+ <node id="694397923" visible="true" version="1" changeset="4406344" timestamp="2010-04-12T17:10:22Z" user="IJMacD" uid="47487" lat="51.1373418" lon="1.2784031"/>
+ <node id="694397925" visible="true" version="1" changeset="4406344" timestamp="2010-04-12T17:10:22Z" user="IJMacD" uid="47487" lat="51.1378837" lon="1.2790735"/>
+ <node id="694397926" visible="true" version="1" changeset="4406344" timestamp="2010-04-12T17:10:22Z" user="IJMacD" uid="47487" lat="51.1381111" lon="1.2793453"/>
+ <node id="694397928" visible="true" version="1" changeset="4406344" timestamp="2010-04-12T17:10:22Z" user="IJMacD" uid="47487" lat="51.1382442" lon="1.2795961"/>
+ <node id="13570766999" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363271" lon="1.2763960"/>
+ <node id="13570767000" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363739" lon="1.2764672"/>
+ <node id="13570792401" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362810" lon="1.2766224"/>
+ <node id="13570792402" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362121" lon="1.2765178"/>
+ <node id="13570792403" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362645" lon="1.2764304"/>
+ <node id="13570792404" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362865" lon="1.2764639"/>
+ <node id="13570792405" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362421" lon="1.2765634"/>
+ <node id="13570792406" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362339" lon="1.2765771"/>
+ <node id="13570792407" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362465" lon="1.2765962"/>
+ <node id="13570792408" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362547" lon="1.2765825"/>
+ <node id="13570792409" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363069" lon="1.2766548"/>
+ <node id="13570792410" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363706" lon="1.2767527"/>
+ <node id="13570792411" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364352" lon="1.2766460"/>
+ <node id="13570792412" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363715" lon="1.2765481"/>
+ <node id="13570792413" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363449" lon="1.2768462"/>
+ <node id="13570792414" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363720" lon="1.2768898"/>
+ <node id="13570792415" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364042" lon="1.2768390"/>
+ <node id="13570792416" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364188" lon="1.2768625"/>
+ <node id="13570792417" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364842" lon="1.2767592"/>
+ <node id="13570792418" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364424" lon="1.2766921"/>
+ <node id="13570792419" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365149" lon="1.2770211"/>
+ <node id="13570792420" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364437" lon="1.2769190"/>
+ <node id="13570792421" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365341" lon="1.2767582"/>
+ <node id="13570792422" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366055" lon="1.2768605"/>
+ <node id="13570792423" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364716" lon="1.2768694"/>
+ <node id="13570792424" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364605" lon="1.2768535"/>
+ <node id="13570792425" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364923" lon="1.2767970"/>
+ <node id="13570792426" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365033" lon="1.2768128"/>
+ <node id="13570792427" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366235" lon="1.2770188"/>
+ <node id="13570792428" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365505" lon="1.2771504"/>
+ <node id="13570792429" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365018" lon="1.2770818"/>
+ <node id="13570792430" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365747" lon="1.2769502"/>
+ <node id="13570792431" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1367152" lon="1.2771681"/>
+ <node id="13570792432" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366352" lon="1.2770633"/>
+ <node id="13570792433" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365809" lon="1.2771687"/>
+ <node id="13570792434" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366056" lon="1.2772010"/>
+ <node id="13570792435" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366172" lon="1.2771785"/>
+ <node id="13570792436" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366725" lon="1.2772509"/>
+ <node id="13570792437" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365584" lon="1.2777333"/>
+ <node id="13570792438" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365954" lon="1.2777778"/>
+ <node id="13570792439" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366073" lon="1.2777528"/>
+ <node id="13570792440" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366862" lon="1.2778478"/>
+ <node id="13570792441" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366130" lon="1.2779570"/>
+ <node id="13570792442" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365107" lon="1.2778341"/>
+ <node id="13570792443" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366472" lon="1.2779301"/>
+ <node id="13570792444" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1366335" lon="1.2779136"/>
+ <node id="13570792445" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365327" lon="1.2777138"/>
+ <node id="13570792446" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364907" lon="1.2776611"/>
+ <node id="13570792447" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1365065" lon="1.2776291"/>
+ <node id="13570792448" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364756" lon="1.2775903"/>
+ <node id="13570792449" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364576" lon="1.2776268"/>
+ <node id="13570792450" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364330" lon="1.2775959"/>
+ <node id="13570792451" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363530" lon="1.2777579"/>
+ <node id="13570792452" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364177" lon="1.2778390"/>
+ <node id="13570792453" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364479" lon="1.2777780"/>
+ <node id="13570792454" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364807" lon="1.2778191"/>
+ <node id="13570792455" visible="true" version="3" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363665" lon="1.2774391"/>
+ <node id="13570792456" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364496" lon="1.2775490"/>
+ <node id="13570792457" visible="true" version="3" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1364011" lon="1.2776421"/>
+ <node id="13570792458" visible="true" version="3" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363180" lon="1.2775322"/>
+ <node id="13570792459" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363058" lon="1.2772741"/>
+ <node id="13570792460" visible="true" version="3" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363651" lon="1.2773709"/>
+ <node id="13570792464" visible="true" version="3" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1363172" lon="1.2774455"/>
+ <node id="13570792465" visible="true" version="2" changeset="179076058" timestamp="2026-02-26T09:43:36Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512" lat="51.1362578" lon="1.2773486"/>
+ <way id="55263196" visible="true" version="2" changeset="11892420" timestamp="2012-06-14T08:18:46Z" user="Gregory Williams" uid="7037">
+  <nd ref="694397902"/>
+  <nd ref="694397904"/>
+  <nd ref="694397906"/>
+  <nd ref="694397913"/>
+  <nd ref="694397923"/>
+  <nd ref="694397925"/>
+  <nd ref="694397926"/>
+  <nd ref="694397928"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30 mph"/>
+  <tag k="name" v="Deanwood Road"/>
+ </way>
+ <way id="55263201" visible="true" version="2" changeset="11892420" timestamp="2012-06-14T08:18:46Z" user="Gregory Williams" uid="7037">
+  <nd ref="694397906"/>
+  <nd ref="694397915"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30 mph"/>
+  <tag k="name" v="Deanwood Road"/>
+ </way>
+ <way id="1479380721" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570766999"/>
+  <nd ref="13570767000"/>
+  <nd ref="13570792401"/>
+  <nd ref="13570792408"/>
+  <nd ref="13570792407"/>
+  <nd ref="13570792406"/>
+  <nd ref="13570792405"/>
+  <nd ref="13570792402"/>
+  <nd ref="13570792403"/>
+  <nd ref="13570792404"/>
+  <nd ref="13570766999"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:street" v="Deamwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="233"/>
+ </way>
+ <way id="1479380722" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792409"/>
+  <nd ref="13570792410"/>
+  <nd ref="13570792411"/>
+  <nd ref="13570792412"/>
+  <nd ref="13570792409"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1479380723" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792413"/>
+  <nd ref="13570792414"/>
+  <nd ref="13570792415"/>
+  <nd ref="13570792416"/>
+  <nd ref="13570792417"/>
+  <nd ref="13570792418"/>
+  <nd ref="13570792413"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1479380724" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792419"/>
+  <nd ref="13570792420"/>
+  <nd ref="13570792423"/>
+  <nd ref="13570792424"/>
+  <nd ref="13570792425"/>
+  <nd ref="13570792426"/>
+  <nd ref="13570792421"/>
+  <nd ref="13570792422"/>
+  <nd ref="13570792419"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="1479380725" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792427"/>
+  <nd ref="13570792428"/>
+  <nd ref="13570792429"/>
+  <nd ref="13570792430"/>
+  <nd ref="13570792427"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="1479380726" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792431"/>
+  <nd ref="13570792432"/>
+  <nd ref="13570792433"/>
+  <nd ref="13570792434"/>
+  <nd ref="13570792435"/>
+  <nd ref="13570792436"/>
+  <nd ref="13570792431"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1479380727" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792437"/>
+  <nd ref="13570792438"/>
+  <nd ref="13570792439"/>
+  <nd ref="13570792440"/>
+  <nd ref="13570792443"/>
+  <nd ref="13570792444"/>
+  <nd ref="13570792441"/>
+  <nd ref="13570792442"/>
+  <nd ref="13570792437"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="1479380728" visible="true" version="1" changeset="178645588" timestamp="2026-02-16T19:27:27Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792445"/>
+  <nd ref="13570792446"/>
+  <nd ref="13570792447"/>
+  <nd ref="13570792448"/>
+  <nd ref="13570792449"/>
+  <nd ref="13570792450"/>
+  <nd ref="13570792451"/>
+  <nd ref="13570792452"/>
+  <nd ref="13570792453"/>
+  <nd ref="13570792454"/>
+  <nd ref="13570792445"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1479380729" visible="true" version="2" changeset="178709886" timestamp="2026-02-18T06:31:53Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792455"/>
+  <nd ref="13570792456"/>
+  <nd ref="13570792457"/>
+  <nd ref="13570792458"/>
+  <nd ref="13570792455"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="1479380730" visible="true" version="2" changeset="178709886" timestamp="2026-02-18T06:31:53Z" user="ONE SHOT HOT POT HELICOPTER TOPPED POT" uid="23833512">
+  <nd ref="13570792459"/>
+  <nd ref="13570792460"/>
+  <nd ref="13570792464"/>
+  <nd ref="13570792465"/>
+  <nd ref="13570792459"/>
+  <tag k="addr:city" v="Dover"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:street" v="Deanwood Road"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+</osm>
