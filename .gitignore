@@ -30,3 +30,13 @@ logs/
 # Temporary files
 tmp/
 *.tmp
+
+geoserver_data/**/*.lck
+geoserver_data/**/*.lock
+
+geoserver_data/**/*.bak
+
+geoserver_data/gwc/
+
+geoserver_data/tmp/
+geoserver_data/logs/
