@@ -11,6 +11,45 @@ const map = new Map({
   layers: [
     new TileLayer({
       source: new OSM()
+    }),
+    new ImageLayer({
+      source: new ImageWMS({
+        url: "http://localhost:8080/geoserver/gis/wms",
+        params: {
+          LAYERS: "gis:vegetation",
+          TILED: true,
+          TRANSPARENT: true,
+          VERSION: "1.1.1"
+        },
+        ratio: 1,
+        serverType: "geoserver",
+      }),
+    }),
+    new ImageLayer({
+      source: new ImageWMS({
+        url: "http://localhost:8080/geoserver/gis/wms",
+        params: {
+          LAYERS: "gis:buildings",
+          TILED: true,
+          TRANSPARENT: true,
+          VERSION: "1.1.1"
+        },
+        ratio: 1,
+        serverType: "geoserver",
+      }),
+    }),
+    new ImageLayer({
+      source: new ImageWMS({
+        url: "http://localhost:8080/geoserver/gis/wms",
+        params: {
+          LAYERS: "gis:roads",
+          TILED: true,
+          TRANSPARENT: true,
+          VERSION: "1.1.1"
+        },
+        ratio: 1,
+        serverType: "geoserver",
+      }),
     })
   ],
   view: new View({
@@ -18,49 +57,3 @@ const map = new Map({
     zoom: 16
   })
 });
-
-const buildingsLayer = new ImageLayer({
-  source: new ImageWMS({
-    url: "http://localhost:8080/geoserver/gis/wms",
-    params: {
-      LAYERS: "gis:buildings",
-      TILED: true,
-      TRANSPARENT: true,
-      VERSION: "1.1.1"
-    },
-    ratio: 1,
-    serverType: "geoserver",
-  }),
-});
-
-const roadsLayer = new ImageLayer({
-  source: new ImageWMS({
-    url: "http://localhost:8080/geoserver/gis/wms",
-    params: {
-      LAYERS: "gis:roads",
-      TILED: true,
-      TRANSPARENT: true,
-      VERSION: "1.1.1"
-    },
-    ratio: 1,
-    serverType: "geoserver",
-  }),
-});
-
-const vegetationLayer = new ImageLayer({
-  source: new ImageWMS({
-    url: "http://localhost:8080/geoserver/gis/wms",
-    params: {
-      LAYERS: "gis:vegetation",
-      TILED: true,
-      TRANSPARENT: true,
-      VERSION: "1.1.1"
-    },
-    ratio: 1,
-    serverType: "geoserver",
-  }),
-});
-
-map.addLayer(vegetationLayer);
-map.addLayer(buildingsLayer);
-map.addLayer(roadsLayer);

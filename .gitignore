@@ -4,3 +4,7 @@ geoserver_data/logs/
 .DS_Store
 client/node_modules
 client/dist
+/geoserver_data/security/masterpw/default/passwd
+*.txt
+*.lck
+*.bak

@@ -16,13 +16,6 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
-DROP DATABASE IF EXISTS gis;
---
--- Name: gis; Type: DATABASE; Schema: -; Owner: -
---
-
-CREATE DATABASE gis WITH TEMPLATE = template0 ENCODING = 'UTF8' LOCALE_PROVIDER = libc LOCALE = 'en_US.utf8';
-
 
 \connect gis
 
@@ -516,4 +509,3 @@ CREATE EVENT TRIGGER ogr_system_tables_event_trigger_for_metadata ON sql_drop
 --
 -- PostgreSQL database dump complete
 --
-
