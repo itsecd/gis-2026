@@ -778,66 +778,6 @@
                             50.3450203,
                             53.5157666
                         ]
-                    ],
-                    [
-                        [
-                            50.3418446,
-                            53.51939
-                        ],
-                        [
-                            50.3421021,
-                            53.5196451
-                        ],
-                        [
-                            50.3442478,
-                            53.5184714
-                        ],
-                        [
-                            50.3440762,
-                            53.5180632
-                        ],
-                        [
-                            50.3432178,
-                            53.517859
-                        ],
-                        [
-                            50.3432178,
-                            53.5185735
-                        ],
-                        [
-                            50.3418446,
-                            53.51939
-                        ]
-                    ],
-                    [
-                        [
-                            50.3413296,
-                            53.5181652
-                        ],
-                        [
-                            50.3415871,
-                            53.5183183
-                        ],
-                        [
-                            50.3416729,
-                            53.517757
-                        ],
-                        [
-                            50.3414898,
-                            53.5174972
-                        ],
-                        [
-                            50.3410721,
-                            53.5173997
-                        ],
-                        [
-                            50.3404713,
-                            53.5176549
-                        ],
-                        [
-                            50.3413296,
-                            53.5181652
-                        ]
                     ]
                 ]
             }
@@ -1495,13 +1435,14 @@
             "type": "Feature",
             "id": "way/1480587229",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "10",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -1540,13 +1481,14 @@
             "type": "Feature",
             "id": "way/1480587230",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "9",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -1584,13 +1526,14 @@
             "type": "Feature",
             "id": "way/1480587231",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "12",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -1628,13 +1571,14 @@
             "type": "Feature",
             "id": "way/1480587232",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "11",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -1672,13 +1616,14 @@
             "type": "Feature",
             "id": "way/1480587233",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "14",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -1716,13 +1661,14 @@
             "type": "Feature",
             "id": "way/1480587234",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "13",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -1760,13 +1706,14 @@
             "type": "Feature",
             "id": "way/1480587235",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "16",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -1804,13 +1751,14 @@
             "type": "Feature",
             "id": "way/1480587236",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "15",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -1848,13 +1796,14 @@
             "type": "Feature",
             "id": "way/1480587237",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "18",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -1892,13 +1841,14 @@
             "type": "Feature",
             "id": "way/1480587238",
             "properties": {
-                "timestamp": "2026-02-19T08:46:12Z",
-                "version": "1",
-                "changeset": "178759997",
+                "timestamp": "2026-02-26T17:11:23Z",
+                "version": "2",
+                "changeset": "179094249",
                 "user": "Данил Сукач",
                 "uid": "23841786",
                 "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "17",
+                "addr:place": "поселок Городцовка",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
