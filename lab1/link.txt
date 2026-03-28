@@ -1,1 +1,4 @@
 https://www.openstreetmap.org/changeset/179211400
+
+новые изменения
+https://www.openstreetmap.org/changeset/180555608
