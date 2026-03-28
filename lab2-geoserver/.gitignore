@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.lck
+*.bak
+
+
+# GeoServer runtime files
+lab2-geoserver/geoserver_data/**/*.{log,lck,bak}
+lab2-geoserver/geoserver_data/tomcat_pass.txt
