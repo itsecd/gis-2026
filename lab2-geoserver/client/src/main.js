@@ -53,7 +53,8 @@ const map = new Map({
   target: 'map',
   layers: [osmLayer, buildingsLayer, roadsLayer, poiLayer],
   view: new View({
-    center: fromLonLat([106.68, 10.77]),
-    zoom: 15
+    center: fromLonLat([106.77738, 11.04008]),
+    zoom: 18
   })
 });
+
