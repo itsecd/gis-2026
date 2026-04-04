@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GIS Карта</title>
+  <title>GIS</title>
   <style>
     * {
       margin: 0;
@@ -12,7 +12,7 @@
     }
     
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     
     #map {
@@ -22,7 +22,7 @@
     
     .info {
       position: absolute;
-      bottom: 20px;
+      top: 20px;
       left: 20px;
       background: white;
       padding: 10px 15px;
@@ -31,13 +31,14 @@
       z-index: 1000;
       font-size: 14px;
       pointer-events: none;
+      font-weight: bold;
     }
   </style>
 </head>
 <body>
   <div id="map"></div>
   <div class="info">
-    <strong>GIS Client</strong> | OpenStreetMap + GeoServer WMS
+    GIS
   </div>
   <script type="module" src="/src/main.js"></script>
 </body>
