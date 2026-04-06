@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="openstreetmap-cgimap 2.1.0 (2002071 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <create>
+  <node id="13702345287" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2832760" lon="50.6622823"/>
+ </create>
+ <create>
+  <node id="13702345288" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2832205" lon="50.6623084"/>
+ </create>
+ <create>
+  <node id="13702345289" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2832405" lon="50.6624276"/>
+ </create>
+ <create>
+  <node id="13702345290" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2832961" lon="50.6624014"/>
+ </create>
+ <create>
+  <node id="13702345291" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831170" lon="50.6623405"/>
+ </create>
+ <create>
+  <node id="13702345292" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831477" lon="50.6624862"/>
+ </create>
+ <create>
+  <node id="13702345293" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830746" lon="50.6625293"/>
+ </create>
+ <create>
+  <node id="13702345294" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830480" lon="50.6624031"/>
+ </create>
+ <create>
+  <node id="13702345295" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830874" lon="50.6623798"/>
+ </create>
+ <create>
+  <node id="13702345296" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830187" lon="50.6623841"/>
+ </create>
+ <create>
+  <node id="13702345297" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830373" lon="50.6624674"/>
+ </create>
+ <create>
+  <node id="13702345298" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829898" lon="50.6624971"/>
+ </create>
+ <create>
+  <node id="13702345299" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829712" lon="50.6624137"/>
+ </create>
+ <create>
+  <node id="13702345300" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828635" lon="50.6625727"/>
+ </create>
+ <create>
+  <node id="13702347801" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828110" lon="50.6625934"/>
+ </create>
+ <create>
+  <node id="13702347802" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827980" lon="50.6625009"/>
+ </create>
+ <create>
+  <node id="13702347803" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828505" lon="50.6624802"/>
+ </create>
+ <create>
+  <node id="13702347804" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828043" lon="50.6622583"/>
+ </create>
+ <create>
+  <node id="13702347805" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827658" lon="50.6622791"/>
+ </create>
+ <create>
+  <node id="13702347806" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827332" lon="50.6621412"/>
+ </create>
+ <create>
+  <node id="13702347807" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827584" lon="50.6621297"/>
+ </create>
+ <create>
+  <node id="13702347808" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827848" lon="50.6621098"/>
+ </create>
+ <create>
+  <node id="13702347809" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827216" lon="50.6625623"/>
+ </create>
+ <create>
+  <node id="13702347810" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827343" lon="50.6626181"/>
+ </create>
+ <create>
+  <node id="13702347811" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2826897" lon="50.6626559"/>
+ </create>
+ <create>
+  <node id="13702347812" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2826739" lon="50.6625964"/>
+ </create>
+ <create>
+  <node id="13702347813" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830170" lon="50.6622155"/>
+ </create>
+ <create>
+  <node id="13702347814" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829968" lon="50.6622246"/>
+ </create>
+ <create>
+  <node id="13702347815" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830031" lon="50.6622640"/>
+ </create>
+ <create>
+  <node id="13702347816" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830233" lon="50.6622548"/>
+ </create>
+ <create>
+  <node id="13702347817" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831083" lon="50.6627575"/>
+ </create>
+ <create>
+  <node id="13702347818" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831127" lon="50.6628258"/>
+ </create>
+ <create>
+  <node id="13702347819" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830882" lon="50.6628304"/>
+ </create>
+ <create>
+  <node id="13702347820" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830508" lon="50.6628491"/>
+ </create>
+ <create>
+  <node id="13702347821" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830480" lon="50.6627710"/>
+ </create>
+ <create>
+  <node id="13702347822" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830770" lon="50.6627631"/>
+ </create>
+ <create>
+  <node id="13702347823" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829844" lon="50.6627706"/>
+ </create>
+ <create>
+  <node id="13702347824" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829929" lon="50.6628518"/>
+ </create>
+ <create>
+  <node id="13702347825" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829591" lon="50.6628659"/>
+ </create>
+ <create>
+  <node id="13702347826" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829306" lon="50.6628759"/>
+ </create>
+ <create>
+  <node id="13702347827" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829230" lon="50.6627860"/>
+ </create>
+ <create>
+  <node id="13702347828" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829493" lon="50.6627920"/>
+ </create>
+ <create>
+  <node id="13702347829" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828523" lon="50.6628306"/>
+ </create>
+ <create>
+  <node id="13702347830" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828524" lon="50.6629335"/>
+ </create>
+ <create>
+  <node id="13702347831" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828547" lon="50.6629931"/>
+ </create>
+ <create>
+  <node id="13702347832" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828119" lon="50.6630126"/>
+ </create>
+ <create>
+  <node id="13702347833" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827726" lon="50.6629717"/>
+ </create>
+ <create>
+  <node id="13702347834" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827589" lon="50.6628550"/>
+ </create>
+ <create>
+  <node id="13702347835" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828019" lon="50.6628481"/>
+ </create>
+ <create>
+  <way id="1495700907" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702345287"/>
+   <nd ref="13702345288"/>
+   <nd ref="13702345289"/>
+   <nd ref="13702345290"/>
+   <nd ref="13702345287"/>
+   <tag k="addr:city" v="Усть-Кинельский"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="house"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700908" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702345291"/>
+   <nd ref="13702345292"/>
+   <nd ref="13702345293"/>
+   <nd ref="13702345294"/>
+   <nd ref="13702345295"/>
+   <nd ref="13702345291"/>
+   <tag k="addr:city" v="Усть-Кинельский"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="house"/>
+   <tag k="building:levels" v="2"/>
+   <tag k="height" v="5"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700909" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702345296"/>
+   <nd ref="13702345297"/>
+   <nd ref="13702345298"/>
+   <nd ref="13702345299"/>
+   <nd ref="13702345296"/>
+   <tag k="addr:city" v="Усть-Кинельский"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="garage"/>
+   <tag k="building:levels" v="1"/>
+   <tag k="height" v="3"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700910" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702345300"/>
+   <nd ref="13702347801"/>
+   <nd ref="13702347802"/>
+   <nd ref="13702347803"/>
+   <nd ref="13702345300"/>
+   <tag k="addr:city" v="Усть-Кинельский"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="house"/>
+   <tag k="building:levels" v="2"/>
+   <tag k="height" v="5"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700911" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702347804"/>
+   <nd ref="13702347805"/>
+   <nd ref="13702347806"/>
+   <nd ref="13702347807"/>
+   <nd ref="13702347808"/>
+   <nd ref="13702347804"/>
+   <tag k="leisure" v="sauna"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700912" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702347809"/>
+   <nd ref="13702347810"/>
+   <nd ref="13702347811"/>
+   <nd ref="13702347812"/>
+   <nd ref="13702347809"/>
+   <tag k="addr:city" v="Усть-Кинельский"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="house"/>
+   <tag k="building:levels" v="1"/>
+   <tag k="height" v="3"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700913" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702347813"/>
+   <nd ref="13702347814"/>
+   <nd ref="13702347815"/>
+   <nd ref="13702347816"/>
+   <nd ref="13702347813"/>
+   <tag k="amenity" v="shelter"/>
+   <tag k="bench" v="yes"/>
+   <tag k="building" v="yes"/>
+   <tag k="lit" v="yes"/>
+   <tag k="shelter_type" v="gazebo"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700914" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702347817"/>
+   <nd ref="13702347818"/>
+   <nd ref="13702347819"/>
+   <nd ref="13702347820"/>
+   <nd ref="13702347821"/>
+   <nd ref="13702347822"/>
+   <nd ref="13702347817"/>
+   <tag k="addr:city" v="Усть-Кинельскиййй"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="house"/>
+   <tag k="building:levels" v="2"/>
+   <tag k="height" v="5"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700915" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702347823"/>
+   <nd ref="13702347824"/>
+   <nd ref="13702347825"/>
+   <nd ref="13702347826"/>
+   <nd ref="13702347827"/>
+   <nd ref="13702347828"/>
+   <nd ref="13702347823"/>
+   <tag k="addr:city" v="Усть-Кинельскиййй"/>
+   <tag k="addr:street" v="7-я линия"/>
+   <tag k="building" v="house"/>
+   <tag k="building:levels" v="1"/>
+   <tag k="height" v="3"/>
+  </way>
+ </create>
+ <create>
+  <way id="1495700916" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="13702347829"/>
+   <nd ref="13702347830"/>
+   <nd ref="13702347831"/>
+   <nd ref="13702347832"/>
+   <nd ref="13702347833"/>
+   <nd ref="13702347834"/>
+   <nd ref="13702347835"/>
+   <nd ref="13702347829"/>
+   <tag k="addr:city" v="Усть-Кинельскиййй"/>
+   <tag k="addr:street" v="7-я линияй"/>
+   <tag k="building" v="house"/>
+   <tag k="building:levels" v="3"/>
+   <tag k="height" v="7"/>
+  </way>
+ </create>
+ <modify>
+  <way id="1354876394" visible="true" version="2" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+   <nd ref="12538676769"/>
+   <nd ref="13702347834"/>
+   <nd ref="12538676775"/>
+   <nd ref="12538676763"/>
+   <nd ref="12538676764"/>
+   <nd ref="12538676765"/>
+   <nd ref="12538676766"/>
+   <nd ref="12538676767"/>
+   <nd ref="12538676768"/>
+   <nd ref="12538676769"/>
+   <tag k="landuse" v="allotments"/>
+   <tag k="name" v="СНТ Автохозяйства"/>
+  </way>
+ </modify>
+</osmChange>
