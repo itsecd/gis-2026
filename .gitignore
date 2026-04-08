@@ -1,3 +1,10 @@
 /Lab2/commands.txt
 /Lab2/client/node_modules
 /Lab2/GeoJSON_lab1.json
+Lab2/client/dist
+Lab2/geoserver_data/gwc/diskquota_page_store_hsql/diskquota.lck
+Lab2/geoserver_data/gwc/diskquota_page_store_hsql/diskquota.log
+Lab2/geoserver_data/gwc/geowebcache_2026-03-17T133855.bak
+Lab2/geoserver_data/logs
+Lab2/geoserver_data/security
+Lab2/geoserver_data/tomcat_pass.txt

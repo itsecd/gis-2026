@@ -1,0 +1,11 @@
+cd Desktop\code\gis-2026\lab2
+
+docker compose up -d
+
+ogr2ogr -f "PostgreSQL" PG:"host=localhost user=gisuser dbname=gis password=gispass" GeoJSON_lab1.json -nln tmp_layer -nlt PROMOTE_TO_MULTI -lco GEOMETRY_NAME=geom
+
+docker exec -it postgis env
+
+docker run --rm -it --network host postgres:16 psql -h 127.0.0.1 -p 5432 -U gisuser -d gis
+
+OSGeo4W
