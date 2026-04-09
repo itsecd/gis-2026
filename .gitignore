@@ -1,3 +1,5 @@
+client/gis-client/node_modules
+
 geoserver_data/gwc/diskquota_page_store_hsql/diskquota.lck
 geoserver_data/gwc/diskquota_page_store_hsql/diskquota.log
 geoserver_data/gwc/geowebcache_2026-04-01T102713.bak
