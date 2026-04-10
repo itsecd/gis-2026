@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>GIS Lab 2 - Interactive Map</title>
+    </head>
+    <body>
+      <main>
+        <div id="map-container">
+          <div id="map"></div>
+          <div class="map-controls">
+            <div class="legend">
+              <h3>Легенда</h3>
+              <div class="legend-item">
+                <span class="legend-color building-color"></span>
+                <span>Здания</span>
+              </div>
+              <div class="legend-item">
+                <span class="legend-color road-color"></span>
+                <span>Дороги</span>
+              </div>
+              <div class="legend-item">
+                <span class="legend-color poi-color"></span>
+                <span>Точки интереса</span>
+              </div>
+            </div>
+            <div class="layer-controls">
+              <h3>Слои</h3>
+              <label>
+                <input type="checkbox" id="buildings-toggle" checked>
+                Здания
+              </label>
+              <label>
+                <input type="checkbox" id="roads-toggle" checked>
+                Дороги
+              </label>
+              <label>
+                <input type="checkbox" id="poi-toggle" checked>
+                Точки интереса
+              </label>
+            </div>
+          </div>
+        </div>
+      </main>
+      <script type="module" src="/src/main.js"></script>
+    </body>
+</html>
