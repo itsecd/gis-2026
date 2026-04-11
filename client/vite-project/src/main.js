@@ -5,36 +5,28 @@ import TileLayer from 'ol/layer/Tile';
 import OSM from 'ol/source/OSM';
 import ImageLayer from 'ol/layer/Image';
 import ImageWMS from 'ol/source/ImageWMS';
+import {fromLonLat} from "ol/proj.js";
 
-document.body.style.margin = '0';
-
-const mapElement = document.getElementById('map');
-mapElement.style.width = '100vw';
-mapElement.style.height = '100vh';
-
-const map = new Map({
+new Map({
   target: 'map',
   layers: [
     new TileLayer({
       source: new OSM()
+    }),
+    new ImageLayer({
+      source: new ImageWMS({
+        url: 'http://localhost:8080/geoserver/gis/wms',
+        params: {
+          LAYERS: 'gis:buildings',
+          TILED: true
+        },
+        ratio: 1,
+        serverType: 'geoserver'
+      })
     })
   ],
   view: new View({
-    center: [0, 0],
-    zoom: 2
+    center: fromLonLat([49.842540740966795, 53.47374153137207]),
+    zoom: 19
   })
 });
-
-const wmsLayer = new ImageLayer({
-  source: new ImageWMS({
-    url: 'http://localhost:8080/geoserver/gis/wms',
-    params: {
-      LAYERS: 'gis:buildings',
-      TILED: true
-    },
-    ratio: 1,
-    serverType: 'geoserver'
-  })
-});
-
-map.addLayer(wmsLayer);

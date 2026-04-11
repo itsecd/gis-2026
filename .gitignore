@@ -7,3 +7,4 @@ geoserver_data/gwc/
 
 geoserver_data/tmp/
 geoserver_data/logs/*.log
+geoserver_data/tomcat_pass.txt
