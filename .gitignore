@@ -1,0 +1,10 @@
+geoserver_data/**/*.lck
+geoserver_data/**/*.lock
+
+geoserver_data/**/*.bak
+
+geoserver_data/gwc/
+
+geoserver_data/tmp/
+geoserver_data/logs/*.log
+geoserver_data/tomcat_pass.txt
