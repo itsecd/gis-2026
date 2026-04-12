@@ -5,9 +5,11 @@ import TileLayer from 'ol/layer/Tile';
 import OSM from 'ol/source/OSM';
 import ImageLayer from 'ol/layer/Image';
 import ImageWMS from 'ol/source/ImageWMS';
+import { fromLonLat } from 'ol/proj';
 
 
-const center = [5490000, 7300000]; // Примерные координаты для OSM
+const centerLon = 49.3493;   
+const centerLat = 53.6653;
 
 const map = new Map({
   target: 'map',
@@ -17,7 +19,7 @@ const map = new Map({
     })
   ],
   view: new View({
-    center: center,
+    center: fromLonLat([centerLon, centerLat]),
     zoom: 14
   })
 });
